@@ -20,8 +20,6 @@ For that you get a room at the Last Berth. One each, to yourself, and you do not
 
 Twelve expeditions landed before yours. None of the adventurers from those twelve are still working. **Whatever privilege you hold inside the wall, you pay for outside it, and the rate is not negotiable.**
 
-## Who's in charge
-
 Three bodies run New Ironhold, and between them they hand out most of the work worth doing.
 
 The Pioneer settles disputes here. It chartered the whole venture, answers to the Continental Assembly, and calls the official surveys.
