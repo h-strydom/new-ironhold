@@ -8,8 +8,6 @@ The crossing took eleven weeks. You remember the storm that nearly took the main
 
 A palisade, a harbour, and a handful of streets that turn to mud when it rains. Beyond the wall: everything else.
 
-## Why you're here
-
 You signed the expedition contract for what's out there, not what's in here. New Ironhold is only the beginning. Which roads get cut, which ruins get mapped, which trade routes hold: expeditions like yours decide what it becomes.
 
 Nobody from the old world had set foot on this continent before The Pioneer proved it could be reached, and nobody can say what is past the tree line. That's the job.
