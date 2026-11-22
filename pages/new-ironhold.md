@@ -24,7 +24,7 @@ Three bodies run New Ironhold, and between them they hand out most of the work w
 
 The Pioneer settles disputes here. It chartered the whole venture, answers to the Continental Assembly, and calls the official surveys.
 
-Trading companies followed The Pioneer out here chasing their own fortunes, private outfits with no obligation to anyone but their backers. Two operate out of New Ironhold at present: Othamar, hauling in engineers and machinery, and Threnval, dealing in reagents and old-world magecraft. Friendly rivals, not enemies, but both are competing for the same hands, and there are only so many.
+Trading companies followed The Pioneer out here chasing their own fortunes, private outfits with no obligation to anyone but their backers. Two operate out of New Ironhold at present: Othamar, hauling in engineers and machinery, and Threnval, dealing in reagents and old-world magecraft. Friendly rivals, not enemies, but both are competing for the same hands.
 
 Post a job, take a job. Whoever's paying, the work is the same: go out there, come back with something worth having.
 
