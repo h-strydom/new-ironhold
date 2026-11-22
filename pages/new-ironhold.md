@@ -10,8 +10,6 @@ A palisade, a harbour, and a handful of streets that turn to mud when it rains. 
 
 You signed the expedition contract for what's out there, not what's in here. New Ironhold is only the beginning. Which roads get cut, which ruins get mapped, which trade routes hold: expeditions like yours decide what it becomes.
 
-Nobody from the old world had set foot on this continent before The Pioneer proved it could be reached, and nobody can say what is past the tree line. That's the job.
-
 ## What you are here
 
 A ship lands once a month, having sailed in [Solenne](/a/cmt21jyb000033zod4t3x92rk/xwcy6c08)'s week eleven weeks before, and most of what it puts on the dock is labour. Dozens of hands signed on for stone, timber, and whatever needs carrying up from the harbour. They go to the bunkhouse, all of them, one long room with the beds close enough together that every man hears his neighbour turn over in the night.
