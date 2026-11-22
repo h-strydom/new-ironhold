@@ -4,7 +4,7 @@ title: New Ironhold
 visibility: hidden
 ---
 
-The crossing took eleven weeks. You remember the storm that nearly took the mainmast, the week the water ration was cut twice, and the morning someone on watch swore they saw lights under the waves that weren't fish. None of that matters now. You're standing on a dock twelve winters old, in a town that has held since the first expedition made the crossing. You're the thirteenth. New Ironhold is what the twelve before you left behind.
+The crossing took eleven weeks. You remember the storm that nearly took the main-mast, the week the water ration was cut twice, and the morning someone on watch swore they saw lights under the waves that weren't fish. None of that matters now. You're standing on a dock twelve winters old, in a town that has held since the first expedition made the crossing. You're the thirteenth. New Ironhold is what the twelve before you left behind.
 
 A palisade, a harbour, and a handful of streets that turn to mud when it rains. Beyond the wall: everything else.
 
