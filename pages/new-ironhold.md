@@ -30,7 +30,7 @@ Post a job, take a job. Whoever's paying, the work is the same: go out there, co
 
 Gold means nothing here. What you're paid in is {Currency}, marks the expedition issues against completed work, good for gear, information, and favours in town. What you find out there is worth having in its own right: a blade is still a blade, a cure is still a cure.
 
-Ships sail only in Solenne's week, when the Silver Sister's light keeps the seas calm enough to cross. Anything you need from the mainland that the new continent can't yet provide, you send for on the ship out. That includes you, if it comes to that.
+Ships sail only in {Solenne's week, when the Silver Sister's light keeps the seas calm enough to cross. Anything you need from the mainland that the new continent can't yet provide, you send for on the ship out. That includes you, if it comes to that.
 
 ## Before you go
 
