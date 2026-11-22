@@ -28,7 +28,7 @@ Trading companies followed The Pioneer out here chasing their own fortunes, priv
 
 Post a job, take a job. Whoever's paying, the work is the same: go out there, come back with something worth having.
 
-Gold means nothing here. What you're paid in is [Currenc](/a/cmt21jyb000033zod4t3x92rk/jmc0vj0n), marks the expedition issues against completed work, good for gear, information, and favours in town. What you find out there is worth having in its own right: a blade is still a blade, a cure is still a cure.
+Gold means nothing here. What you're paid in is [Currenc](/a/cmt21jyb000033zod4t3x92rk/jmc0vj0n)y, marks the expedition issues against completed work, good for gear, information, and favours in town. What you find out there is worth having in its own right: a blade is still a blade, a cure is still a cure.
 
 Ships sail only in [Solenne](/a/cmt21jyb000033zod4t3x92rk/xwcy6c08)'s week, when the Silver Sister's light keeps the seas calm enough to cross. Anything you need from the mainland that the new continent can't yet provide, you send for on the ship out. That includes you, if it comes to that.
 
