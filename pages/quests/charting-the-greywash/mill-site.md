@@ -13,7 +13,7 @@ visibility: hidden
 >
 > Clear a path to the site. Kill what you have to. We need the ground safe enough to bring in timber and workers, not empty of every animal in it.
 >
-> Report to Corinon completion. He pays out.
+> Report to Corin Bregardon completion. He pays out.
 
 **Reward:** 15,000₲
 
