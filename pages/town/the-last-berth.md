@@ -17,3 +17,5 @@ No adventurer has yet claimed one. Twelve expeditions have landed, and the rooms
 ## Food and drink
 
 The water ration and the expedition meal cost nothing and taste like it. Everything else costs, and the Last Berth is the only place inside the palisade serving anything a person would choose to eat.
+
+![last_berth_menu](blob:sha256-69a92c6f3a4f746d3da51842e8d28e77d0e9dc25ec5a17e8b2f24e22bb67e6ce)
