@@ -4,3 +4,5 @@ title: Town
 visibility: hidden
 order: 20
 ---
+
+/map
