@@ -23,6 +23,7 @@ visibility: hidden
 
 Four to six players is a full table. Three will run. Below three it is usually worth waiting or recruiting. More than six splits into two sessions.
 
-/inf
+:::info
+:::
 
 The three-hour ceiling is there so that agreeing to a session is a small commitment rather than an evening surrendered.
