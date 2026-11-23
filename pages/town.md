@@ -5,4 +5,4 @@ visibility: hidden
 order: 20
 ---
 
-::map
+::map{src="maps/untitled-map.yaml"}
