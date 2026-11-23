@@ -16,6 +16,9 @@ visibility: hidden
 **Reward:** 12,000₲
 
 :::secret
+## Completed in the second session
+
+- No reagents were saved.
 :::
 
 ##
