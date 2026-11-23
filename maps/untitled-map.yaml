@@ -1,6 +1,6 @@
 id: untitled-map
 title: Untitled map
 visibility: hidden
-pins: [ { id: pa1f53edb17, at: [ 1002.3, 4527.4 ], label: New pin, visibility: hidden } ]
+pins: [ { id: pa1f53edb17, at: [ 1002.3, 4527.4 ], label: Port, visibility: hidden } ]
 image: blob:sha256-700de7e057460ed87ef9818a014f4d90796fa2459383cf772362ddaa0a696f15
 size: [ 6186, 5400 ]
