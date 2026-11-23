@@ -20,10 +20,10 @@ order: 40
 - **Play as much or as little as you want.** Every week, once a month, twice in one week. There is no minimum.
 - **Sessions run four hours at most.** That is a ceiling, not a target. When the time is up the session ends, finished or not, and the job carries over to the next one.
 
-## Group size
-
-Four to six players is a full table. Three will run. Below three it is usually worth waiting or recruiting. More than six splits into two sessions.
-
 :::info
 The four-hour ceiling is there so that agreeing to a session is a small commitment rather than an evening surrendered.
 :::
+
+## Group size
+
+Four to six players is a full table. Three will run. Below three it is usually worth waiting or recruiting. More than six splits into two sessions.
