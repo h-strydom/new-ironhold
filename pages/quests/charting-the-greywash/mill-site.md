@@ -18,4 +18,6 @@ visibility: hidden
 **Reward:** 15,000₲
 
 :::secret
+- Gives access to a mill, cheaper food, more ore and better processing.
+- Possible downtime activity.
 :::
