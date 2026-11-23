@@ -2,7 +2,7 @@
 id: 01M858FATP04VQQXBMQTC459VB
 title: Roadworks
 visibility: hidden
-order: 30
+order: 40
 ---
 
 **What you do:** Grading and laying road bed along a stretch the town has decided is worth the effort next.
