@@ -17,7 +17,7 @@ order: 40
 ## What that means in practice
 
 - **Any night will do.** If the people you found want a Wednesday then play on a Wednesday.
-- **Play as much or as little as you want.** Every week, once a month, twice in one weekend. There is no minimum.
+- **Play as much or as little as you want.** Every week, once a month, twice in one week. There is no minimum.
 - **Sessions run four hours at most.** That is a ceiling, not a target. When the time is up the session ends, finished or not, and the job carries over to the next one.
 
 ## Group size
