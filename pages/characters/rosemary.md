@@ -17,4 +17,5 @@ She cannot fly, and she has never once asked a customer to reach anything down f
 She is warm without making a show of it. Everyone gets something out of the oven, often a biscuit near the size of her own head, held up until somebody takes it, on the first visit and every visit after, whether or not they buy and whether or not they are pleasant about it. She extends no credit to anyone. She wants to owe nothing to anybody, and to be owed nothing back.
 
 :::secret
+She was born property in Cassivere, where that is lawful and The Continental Assembly has no standing to say otherwise, and she was marked for it: for a pixie that means the wings. She does not talk about it, and the few who know the story leave it alone.
 :::
