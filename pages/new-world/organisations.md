@@ -2,7 +2,7 @@
 id: 01M854DTDSNMZKYA9A0VSMC2N6
 title: Organisations
 visibility: hidden
-order: 40
+order: 10
 ---
 
 [Othamar](/a/cmt21jyb000033zod4t3x92rk/hkrwfmbz) and [Threnval](/a/cmt21jyb000033zod4t3x92rk/dxejh6gh) compete for one thing: the labour of whoever takes work here. Neither wants the other gone, and neither has any use for a feud.
