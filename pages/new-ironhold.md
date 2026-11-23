@@ -17,7 +17,7 @@ Adventurers do not arrive on that schedule. An expedition lands once a year, and
 
 Nobody will ask you to haul stone, cut timber or empty a hold. That is not what you are for. You are for the work nobody signs on for: keeping a caravan alive between here and wherever it is going, clearing out whatever has moved into ground the town needs, and walking past the tree line to find out what is on the other side of it.
 
-For that you get a room at [[The Last Berth]]. One each, to yourself, and you do not pay for it. That is where the privilege stops. The water ration and the expedition meal are free and taste like it, and anything you would actually choose to eat is bought the same way anybody else buys it.
+For that you get a room at [[The Last Berth|The Last Bert]]. One each, to yourself, and you do not pay for it. That is where the privilege stops. The water ration and the expedition meal are free and taste like it, and anything you would actually choose to eat is bought the same way anybody else buys it.
 
 Twelve expeditions landed before yours. None of the adventurers from those twelve are still working. **Whatever privilege you hold inside the wall, you pay for outside it, and the rate is not negotiable.**
 
