@@ -2,7 +2,7 @@
 id: 01M850B80A9EAQ6SF30A0NF1EV
 title: Town
 visibility: hidden
-order: 30
+order: 20
 ---
 
 ::map{src="maps/new-ironhold.yaml"}
