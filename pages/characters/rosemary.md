@@ -21,4 +21,5 @@ She was born property in Cassivere, where that is lawful and The Continental Ass
 :::
 
 :::secret
+The "and Co." is not decoration. There are four of them, all dead for years, and she raised every one herself. They are the help.
 :::
