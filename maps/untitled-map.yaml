@@ -1,6 +1,6 @@
 id: untitled-map
 title: Untitled map
 visibility: hidden
-pins: [ { id: pa1f53edb17, at: [ 1002.3, 4527.4 ], label: Port, visibility: public, icon: anchor, colour: "#1565c0" }, { id: pb5cb6f08e5, at: [ 1675.1, 4332.3 ], label: The Last Berth, visibility: public, icon: tavern, link: "[[The Last Berth]]", colour: "#b3261e" } ]
+pins: [ { id: pa1f53edb17, at: [ 1002.3, 4527.4 ], label: Port, visibility: public, icon: anchor, colour: "#1565c0" }, { id: pb5cb6f08e5, at: [ 1675.1, 4332.3 ], label: The Last Berth, visibility: public, icon: tavern, link: "[[The Last Berth]]", colour: "#c25e00" } ]
 image: blob:sha256-700de7e057460ed87ef9818a014f4d90796fa2459383cf772362ddaa0a696f15
 size: [ 6186, 5400 ]
