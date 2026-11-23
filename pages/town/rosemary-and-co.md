@@ -37,8 +37,6 @@ No credit, for anyone: not adventurers, not the companies, not the [Pioneers](/a
 | Map of the town | Free |
 
 :::secret
-Full DM-eyes-only pricing. Visible price above is (starting + highest) / 2, the between-sessions rate - a real but modest markup meant to make showing up in person the better deal.
-
 | Item | Starting | Lowest (haggle) | Highest | Bulk (2 shipments/2 months) |
 | - | - | - | - | - |
 | Rope, hempen, 50ft | 100₲ | 75₲ | 150₲ | 250₲ for 5 lengths |
