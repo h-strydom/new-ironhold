@@ -10,4 +10,7 @@ With the mine cleared, [[id:01M854GJFBAES917146Q2016YD|Othamar]] needs hands to 
 
 **What you get:** 60₲ a day.
 
+:::info
+:::
+
 Word is already going round that the smith, idle since the vein was overrun, has ore to work again.
