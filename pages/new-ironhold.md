@@ -23,7 +23,7 @@ Twelve expeditions landed before yours. None of the adventurers from those twelv
 
 Three bodies run New Ironhold, and between them they hand out most of the work worth doing.
 
-The Pioneer settles disputes here. It chartered the whole venture, answers to the Continental Assembly, and calls the official surveys.
+[[Pioneers|The Pioneer]] settles disputes here. It chartered the whole venture, answers to the Continental Assembly, and calls the official surveys.
 
 Trading companies followed The Pioneer out here chasing their own fortunes, private outfits with no obligation to anyone but their backers. Two operate out of New Ironhold at present: Othamar, hauling in engineers and machinery, and Threnval, dealing in reagents and old-world magecraft. Friendly rivals, not enemies, but both are competing for the same hands.
 
