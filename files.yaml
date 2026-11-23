@@ -2,5 +2,5 @@
 - { folder: "maps" }
 - { folder: "battlemaps" }
 - { folder: "specimens" }
-- { folder: "specimens/Original" }
+- { folder: "specimens/original" }
 - { folder: "specimens/cards" }
