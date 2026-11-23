@@ -51,10 +51,4 @@ No credit, for anyone: not adventurers, not the companies, not the [Pioneers](/a
 | Canvas, small tent | 200₲ | 150₲ | 300₲ | - |
 | Sturdy boots | 50₲ | 38₲ | 75₲ | - |
 | Fishing tackle | 100₲ | 75₲ | 150₲ | - |
-
-Standard RAW prices at the 100₲ ≈ 1GP peg, undistorted - this is ordinary gear, not one of the scarcity-flagged categories from notes/economy.md (food, arrows, repairs).
-
-**Bulk is a minimum order, not just a per-unit discount** - the cell states the total price and the quantity it buys, because nobody places a genuine bulk order for one item. It's gone entirely from anything nobody would actually buy a stack of: personal gear (backpack, bedroll, tent, boots, fishing tackle, a lamp, a tinderbox) has no bulk row at all. Rope, oil and torches keep it because an expedition or a building project (the Bridge/Roadworks downtime activities) is a real reason to buy several at once.
-
-**Rations are gone from this list on purpose.** Rosemary used to be written as carrying them; as of this session they're Threnval-exclusive (the mana-infused kind actually satisfies the food requirement, and having two sellers of "rations" that mean different things is the kind of thing that gets misread at the table). Her cookies fill the flavour gap instead - a gift, never a purchase, never priced, always one per visit. If a player tries to buy a stack of them to stockpile, that's a "no" from her, gently and without explanation, same as the credit rule.
 :::
