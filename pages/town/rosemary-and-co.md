@@ -17,3 +17,21 @@ The shop goes up rather than back. Shelving runs to the roof beam, and threaded 
 ## Terms
 
 No credit, for anyone: not adventurers, not the companies, not the [Pioneers](/a/cmt21jyb000033zod4t3x92rk/r0szif5c). It is the only fixed rule in the shop.
+
+| Item | Price |
+| - | - |
+| Rope, hempen, 50ft | 125₲ |
+| Rope, silk, 50ft | 1,250₲ |
+| Lamp | 63₲ |
+| Oil, flask | 13₲ |
+| Tinderbox | 63₲ |
+| Waterskin | 25₲ |
+| Torches, bundle of 10 | 13₲ |
+| Backpack | 250₲ |
+| Bedroll | 125₲ |
+| Canvas, small tent | 250₲ |
+| Sturdy boots | 63₲ |
+| Fishing tackle | 125₲ |
+| Calendar | 500₲ |
+| Moon phase | 900₲ |
+| Map of the town | Free |
