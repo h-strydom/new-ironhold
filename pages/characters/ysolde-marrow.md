@@ -22,3 +22,6 @@ She was a senior alchemist before the Treaty of [Ashvale](/a/cmt21jyb000033zod4t
 :::secret
 Her colouring is not fey blood. She was born beside [Ashvale](/a/cmt21jyb000033zod4t3x92rk/s07t97v0), and the forest changed her. Around [Ashvale](/a/cmt21jyb000033zod4t3x92rk/s07t97v0) what it does is called [Umbriel](/a/cmt21jyb000033zod4t3x92rk/am4xsyhf)'s kiss, and she was not expected to live out her first week. Many of the children born near her that season did not.
 :::
+
+:::secret
+:::
