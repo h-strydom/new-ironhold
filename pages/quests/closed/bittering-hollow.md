@@ -18,6 +18,4 @@ visibility: hidden
 :::secret
 :::
 
-## Completed in the second session
-
-- No reagents were saved.
+##
