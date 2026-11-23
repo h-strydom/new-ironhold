@@ -15,3 +15,9 @@ Every new arrival is issued **90 rations**, thirty days at three a day. Anyone w
 | Item | Price |
 | - | - |
 | Mana-hardtack, per ration | 5₲ |
+
+## Potions
+
+| Item | Price |
+| - | - |
+| Basic healing potion | 5,000₲ |
