@@ -12,6 +12,8 @@ She gives away whatever came out of the oven that day. A biscuit, still warm, on
 
 ## The building
 
-The shop goes up rather than back. Shelving runs to the roof beam, and threaded through it is a lattice of ramps, walkways and rope-railed gantries small enough to sit in cupped hands. Every shelf in the place can be reached on foot by somebody five inches tall who cannot fly.Terms
+The shop goes up rather than back. Shelving runs to the roof beam, and threaded through it is a lattice of ramps, walkways and rope-railed gantries small enough to sit in cupped hands. Every shelf in the place can be reached on foot by somebody five inches tall who cannot fly.
+
+## Terms
 
 No credit, for anyone: not adventurers, not the companies, not the [Pioneers](/a/cmt21jyb000033zod4t3x92rk/r0szif5c). It is the only fixed rule in the shop.
