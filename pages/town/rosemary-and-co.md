@@ -35,3 +35,6 @@ No credit, for anyone: not adventurers, not the companies, not the [Pioneers](/a
 | Calendar | 500₲ |
 | Moon phase | 900₲ |
 | Map of the town | Free |
+
+:::secret
+:::
