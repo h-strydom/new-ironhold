@@ -2,6 +2,7 @@
 id: 01M8553G6G10CWMBH7KF5RM5NY
 title: Character Creation
 visibility: hidden
+order: 20
 ---
 
 [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2) runs on Dungeons & Dragons 5.5e, the 2024 ruleset. No restriction on sourcebooks, species or classes: if it is in the 2024 rules, it is on the table.
