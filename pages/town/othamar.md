@@ -23,3 +23,6 @@ Every weapon here carries a permanent **-1 to attack rolls**. The smith in [New 
 | Arrows, bundle of 20 | 125₲ |
 | Crowbar | 250₲ |
 | Hammer | 125₲ |
+
+:::secret
+:::
