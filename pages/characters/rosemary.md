@@ -15,3 +15,5 @@ Rosemary runs [Rosemary and Co.](/a/cmt21jyb000033zod4t3x92rk/l2jh1z0s), New Iro
 She cannot fly, and she has never once asked a customer to reach anything down for her. She will not repeat herself louder, and she is not embarrassed about it. She waits for people to come closer, with more patience than they have.
 
 She is warm without making a show of it. Everyone gets something out of the oven, often a biscuit near the size of her own head, held up until somebody takes it, on the first visit and every visit after, whether or not they buy and whether or not they are pleasant about it. She extends no credit to anyone. She wants to owe nothing to anybody, and to be owed nothing back.
+
+/sec
