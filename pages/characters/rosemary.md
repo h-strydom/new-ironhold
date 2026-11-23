@@ -27,3 +27,5 @@ The "and Co." is not decoration. There are four of them, all dead for years, and
 :::secret
 The four were held alongside her in Cassivere, and she brought them over dead in the hold of the ship she came on. She has never taken one of this town's dead. They are the only people who were ever on her side. She will have no living staff. What was done to her was done by people, and something she made cannot wake one morning and decide to do it to her.
 :::
+
+/
