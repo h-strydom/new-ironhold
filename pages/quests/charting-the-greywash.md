@@ -2,7 +2,7 @@
 id: 01M857RB2K3WKXMYXD3VCCPRBD
 title: Charting the Greywash
 visibility: hidden
-order: 30
+order: 20
 ---
 
 **Posted by:** [[Pioneers]]\
