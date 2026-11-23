@@ -2,6 +2,7 @@
 id: 01M8510CRHVHTAA2YV5WCB38CR
 title: Liora Aldwick
 visibility: hidden
+order: 50
 ---
 
 Liora Aldwick runs [The Last Berth](/a/cmt21jyb000033zod4t3x92rk/jo4nvcto) with [Dorne Aldwick](/a/cmt21jyb000033zod4t3x92rk/s7bsp8yt) and does the talking for both of them. Most of what [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2) knows about itself passes through her.

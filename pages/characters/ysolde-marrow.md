@@ -2,6 +2,7 @@
 id: 01M850XGQX41YXSM6SAK7SEHTK
 title: Ysolde Marrow
 visibility: hidden
+order: 70
 ---
 
 Ysolde Marrow speaks for [Threnval](/a/cmt21jyb000033zod4t3x92rk/dxejh6gh) in [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2), and is precise in a way that reads as expensive.
