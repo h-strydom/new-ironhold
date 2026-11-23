@@ -2,7 +2,7 @@
 id: 01M858EXHR0AWXS4213SRAGYYD
 title: Mining
 visibility: hidden
-order: 10
+order: 20
 ---
 
 With the mine cleared, [[id:01M854GJFBAES917146Q2016YD|Othamar]] needs hands to work it.
