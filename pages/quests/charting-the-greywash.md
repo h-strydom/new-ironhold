@@ -4,7 +4,7 @@ title: Charting the Greywash
 visibility: hidden
 ---
 
-**Posted by:** [Pioneers](/a/cmt21jyb000033zod4t3x92rk/r0szif5c)\
+**Posted by:** Pioneers\
 **Status:** Open
 
 > SURVEY DIRECTIVE: THE GREYWASH
