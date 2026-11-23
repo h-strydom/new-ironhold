@@ -4,7 +4,7 @@ title: Sunken Cart
 visibility: hidden
 ---
 
-**Posted by:** [Othamar](/a/cmt21jyb000033zod4t3x92rk/hkrwfmbz)\
+**Posted by:** \
 **Status:** Open
 
 > NOTICE: SUNKEN CART
