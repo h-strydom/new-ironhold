@@ -2,7 +2,7 @@
 id: 01M858MF0W13YY77FKTZGWV9MB
 title: The Bridge
 visibility: hidden
-order: 40
+order: 50
 ---
 
 **What you do:** Real construction labour: winching, cabling, cutting and laying the road bed. Skilled work, not shovel work.
