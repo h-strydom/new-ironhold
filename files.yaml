@@ -1,6 +1,6 @@
 # The project's files: the blob, its own name, when it was added and its folder. Pages refer to blob:sha256-<hex>.
 - { folder: "maps" }
 - { folder: "battlemaps" }
-- { folder: "Specimens" }
-- { folder: "Specimens/Original" }
-- { folder: "Specimens/Card" }
+- { folder: "specimens" }
+- { folder: "specimens/Original" }
+- { folder: "specimens/Card" }
