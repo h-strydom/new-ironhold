@@ -4,7 +4,7 @@ title: Bittering Hollow
 visibility: hidden
 ---
 
-**Posted by:** Threnval\
+**Posted by:** [[id:01M854JEW07BXK36ETZRPMBTCF|Threnval]]\
 **Status:** Open
 
 > NOTICE: BITTERING HOLLOW
