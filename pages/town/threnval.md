@@ -23,4 +23,7 @@ Every new arrival is issued **90 rations**, thirty days at three a day. Anyone w
 | Basic healing potion | 5,000₲ |
 
 :::secret
+| Item | Starting | Lowest | Highest | Bulk (2 shipments/2 months) |
+| - | - | - | - | - |
+| Basic healing potion | 4,000₲ | 3,000₲ | 6,000₲ | 20,000₲ for 10 potions |
 :::
