@@ -16,3 +16,6 @@ visibility: hidden
 > Report to [Corin Bregard](/a/cmt21jyb000033zod4t3x92rk/cwpwkb2krxdd3nk8rpafsll6) on completion. He pays out.
 
 **Reward:** 15,000₲
+
+:::secret
+:::
