@@ -4,4 +4,4 @@ title: Expeditions
 visibility: hidden
 ---
 
-## 12t
+## 12th Expedition
