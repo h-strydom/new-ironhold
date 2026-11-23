@@ -4,7 +4,7 @@ title: Mill Site
 visibility: hidden
 ---
 
-**Posted by:** [Othamar](/a/cmt21jyb000033zod4t3x92rk/hkrwfmbz)\
+**Posted by:** Oth\
 **Status:** Open
 
 > MILL SITE: CLEARANCE NEEDED
