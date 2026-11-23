@@ -17,7 +17,7 @@ visibility: hidden
 
 - **Any night will do.** If the people you found want a Tuesday, play on a Tuesday.
 - **Play as much or as little as you want.** Every week, once a month, twice in one weekend. There is no minimum.
-- **Sessions run fourhours at most.** That is a ceiling, not a target. When the time is up the session ends, finished or not, and the job carries over to the next one.
+- **Sessions run four hours at most.** That is a ceiling, not a target. When the time is up the session ends, finished or not, and the job carries over to the next one.
 
 ## Group size
 
