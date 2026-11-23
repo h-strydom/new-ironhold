@@ -19,3 +19,6 @@ She is warm without making a show of it. Everyone gets something out of the oven
 :::secret
 She was born property in Cassivere, where that is lawful and The Continental Assembly has no standing to say otherwise, and she was marked for it: for a pixie that means the wings. She does not talk about it, and the few who know the story leave it alone.
 :::
+
+:::secret
+:::
