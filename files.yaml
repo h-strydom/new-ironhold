@@ -3,4 +3,4 @@
 - { folder: "battlemaps" }
 - { folder: "specimens" }
 - { folder: "specimens/Original" }
-- { folder: "specimens/Card" }
+- { folder: "specimens/cards" }
