@@ -2,7 +2,7 @@
 id: 01M8554CCA02EAXZ33YC66R8TM
 title: Scheduling a Session
 visibility: hidden
-order: 50
+order: 40
 ---
 
 **Sessions are booked by players.** Not by the DM, and not on a fixed night of the week.
