@@ -8,7 +8,7 @@ order: 70
 Rosemary runs [[Rosemary and Co.]], [[New Ironhold|New Ironhold's]] general store, and is the only person in [[New Ironhold]] who gives anything away.
 
 - **Pixie**, five inches tall, slight and quick on her feet.
-- **No wings.** Stumps, not scar tissue, only flat where they were, which is worse to look at than a wound would be.
+- **No wings.** Stumps, scar tissue, only flat where they were, which is worse to look at than a wound would be.
 - **Dim**, the faint under-lit glow pixies have, turned down lower than it ought to be.
 - **A voice** barely above nothing. Talking to her means kneeling, every time.
 - **An apron** cut down from something made for somebody larger.
