@@ -12,5 +12,5 @@ visibility: hidden
 1. Aurelis
 1. Quintane
 1. Auremont
-1. Velmora
-1. Solmara
+
+1) Solmara
