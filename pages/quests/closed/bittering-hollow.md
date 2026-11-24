@@ -19,7 +19,7 @@ visibility: hidden
 ## Completed in the second session
 
 - No reagents were saved.
--
+- 2 Goblins
 :::
 
 ##
