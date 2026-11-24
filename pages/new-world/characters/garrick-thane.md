@@ -5,7 +5,7 @@ visibility: hidden
 order: 50
 ---
 
-Garrick Thane speaks for [Othamar](/a/cmt21jyb000033zod4t3x92rk/hkrwfmbz) in [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2). He is a tradesman who became a company man, and has never quite stopped being the first thing.
+Garrick Thane speaks for [[id:01M854GJFBAES917146Q2016YD|Othamar]] in [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2). He is a tradesman who became a company man, and has never quite stopped being the first thing.
 
 - **Dwarf**, four foot four and very nearly as broad across the shoulders.
 - **Iron-grey hair** cropped short. His beard is singed unevenly down the left side.
