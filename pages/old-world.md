@@ -11,4 +11,4 @@ The mainland is old, settled and thoroughly governed. Every nation on it sits th
 
 That gap is why the expedition works the way it does. The people who funded it cannot supervise it, so what gets decided out here gets decided by the parties on the ground, long before anyone back home could weigh in.
 
-Everything the colony cannot make for itself comes from the mainland, at a round trip of roughly half a year. It is also where every settler came from, and that counts for less with each month they are gone.
+Everything the colony cannot make for itself comes from the mainland, at a round trip of roughly half a year. It is also where every settler came from.
