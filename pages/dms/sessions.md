@@ -42,3 +42,5 @@ Ysolde has 1 of each mushroom and will identify them for anthea.
 
 Had their first Veil, Anthea, Balmas, both francois, tobi, jeandre. Hennie/Jaco couldn't make.\
 Bit of a slow session, most of it was social and infighting, ended with Henry almost dying to the shadow monsters.
+
+Kai and Balmas hid in the
