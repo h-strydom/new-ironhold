@@ -9,3 +9,5 @@ Never created a DnD character before?
 
 ## Start [HERE](https://youtu.be/GXwYXyKwaDo?si=XdfoDzU4dlxFX1YN)
 :::
+
+Joining
