@@ -20,7 +20,7 @@ Seven countries sit the assembly.
 - **[[Velmora]]** is a merchant state. The leading consortium backs the delegate and has to buy that backing again every cycle.
 - **[[Ilvaine]]** puts the seat to a vote of its citizens, one vote each, with no council or court standing between them and the seat.
 - **[[Pamora]]** draws its delegate by lot from every citizen, children included, and a drawn child casts the vote. Its workshops turn imported materials into luxuries the other countries compete to buy.
-- **Ondilia** is a theocracy whose temples name the delegate from their own priests. Those temples sell paper, ink and copied books.
+- **[[Ondilia]]** is a theocracy whose temples name the delegate from their own priests. Those temples sell paper, ink and copied books.
 
 ## Why it does not reach New Ironhold
 
