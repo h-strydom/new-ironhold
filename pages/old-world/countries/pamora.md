@@ -20,6 +20,6 @@ Pamora buys Ashvale reagents through intermediaries. A country that counts the y
 :::secret
 - A bargain with a Pamoran has to exist on paper. Anything agreed aloud holds no weight with them.
 - Any Pamoran child may turn out to be the delegate next term. A child met in a workshop is a child who could hold one vote in seven.
-- Pamoran engineers at Othamar can read and draft a contract better than most of the party.
-- Whoever the party finds guarding a child delegate is the person the consortia have already paid, or the person trying to stop them.
+
+* Whoever the party finds guarding a child delegate is the person the consortia have already paid, or the person trying to stop them.
 :::
