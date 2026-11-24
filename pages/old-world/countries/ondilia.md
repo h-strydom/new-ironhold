@@ -25,5 +25,4 @@ The same priesthood sets the sailing calendar. A priest rules each year which da
 - Ondilia sent nobody to New Ironhold. It has no stake in the expedition and no standing claim on anything found there.
 - The seat is the one on the assembly with an obvious price in favours. A delegate who needs something from a priest below him cannot easily ask for it.
 - Ondilia's temples are the likeliest place on the mainland for a copy of any text, a pigment recipe or a record of Ashvale reagents, which gives a reason for a book, a map or a letter from there to turn up in play.
-- A ship that is late, held back or sailed on a forbidden day is a fact about Ondilia's priesthood, not about the weather.
 :::
