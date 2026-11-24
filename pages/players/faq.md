@@ -2,7 +2,7 @@
 id: 01M8556A0MFF0C0ZKWPAPH03N8
 title: FAQ
 visibility: hidden
-order: 30
+order: 20
 ---
 
 ## Do I get my class's normal starting equipment?
