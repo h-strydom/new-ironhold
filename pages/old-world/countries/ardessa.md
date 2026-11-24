@@ -4,3 +4,5 @@ title: Ardessa
 visibility: hidden
 order: 10
 ---
+
+One of the seven nations that sit the Continental Assembly. A monarchy: the queen represents Ardessa in person, not through a minister sent in her place, and that is the whole of the mechanism. No council, no vote, and no succession crisis written up yet.
