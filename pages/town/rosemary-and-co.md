@@ -6,7 +6,7 @@ visibility: hidden
 
 The general store, just down the hill from the Pioneer's tent. Run by [[Rosemary]].
 
-Day-to-day goods and nothing else: rope, lamp oil, boots, canvas. Weapons and tools are [[id:01M854GJFBAES917146Q2016YD|Othamar's]] trade, and rations and potions are Threnval's.
+Day-to-day goods and nothing else: rope, lamp oil, boots, canvas. Weapons and tools are [[id:01M854GJFBAES917146Q2016YD|Othamar's]] trade, and rations and potions are [[id:01M854JEW07BXK36ETZRPMBTCF|Threnval's]].
 
 She gives away whatever came out of the oven that day. A biscuit, still warm, on a customer's first visit and most visits after, whether or not they buy. She will not take payment for one.
 
