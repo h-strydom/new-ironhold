@@ -22,4 +22,4 @@ Ashvale is where the treaty was signed, not merely what it was named after. It w
 
 ## Threnval
 
-Threnval's trade ran almost entirely on Ashvale reagents before the expedition.
+[[id:01M854JEW07BXK36ETZRPMBTCF|Threnval's]] trade ran almost entirely on Ashvale reagents before the expedition.
