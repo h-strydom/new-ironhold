@@ -4,4 +4,4 @@ title: Notes
 visibility: hidden
 ---
 
-##
+## Ideas
