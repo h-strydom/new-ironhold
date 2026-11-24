@@ -11,7 +11,7 @@ The delegate answers to the temples and to nobody else. Because rank is given fr
 
 ## Land and trade
 
-Rich temperate farmland, the mainland's granary, and large. Ondilia grew by absorbing its neighbours, and under the assembly's rule that costs a seat for every country absorbed. How it did so is not decided. It has stopped on purpose, and does not take more. The granary is why nobody starves. Hunger is not how the priesthood keeps its hold, and the fed are not the comfortable: below the top, a priest eats, sleeps under a roof and keeps what the temple allows him, and the surplus runs upward.
+Rich temperate farmland, the mainland's granary. Ondilia grew by absorbing its neighbours, and under the assembly's rule that costs a seat for every country absorbed. How it did so is not decided. It has stopped on purpose, and does not take more. The granary is why nobody starves. Hunger is not how the priesthood keeps its hold, and the fed are not the comfortable: below the top, a priest eats, sleeps under a roof and keeps what the temple allows him, and the surplus runs upward.
 
 Ondilia is where the mainland's science is done. The temples are its laboratories and its libraries, and a great deal of what the continent knows about nature was worked out by priests with a vow, a bench and a cellar of books. The science is natural philosophy, medicine and alchemy, not machines. Paper, ink and copied books are what that work produces, and they are what Ondilia sells. It buys in paper stock and pigment to make them.
 
