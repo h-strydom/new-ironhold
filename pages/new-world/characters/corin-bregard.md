@@ -14,6 +14,6 @@ Guildmaster of [[Quests]] in [[New Ironhold]], which is the Pioneer's building b
 
 He has never handed the ledger to anybody. He writes constantly and does not look up while he does it, and every adventurer off the ship gives him a name before they get anywhere else.
 
-He runs the tent the way a purser keeps a manifest, and he takes no side between [Pioneers](/a/cmt21jyb000033zod4t3x92rk/r0szif5c), [Othamar](/a/cmt21jyb000033zod4t3x92rk/hkrwfmbz) and [Threnval](/a/cmt21jyb000033zod4t3x92rk/dxejh6gh). Anyone who wastes his time loses their turn to somebody else, and he is civil about it. Every party that comes back owes him an account of what actually happened out there, not what the notice said.
+He runs the tent the way a purser keeps a manifest, and he takes no side between the [Pioneers](/a/cmt21jyb000033zod4t3x92rk/r0szif5c), [Othamar](/a/cmt21jyb000033zod4t3x92rk/hkrwfmbz) and [Threnval](/a/cmt21jyb000033zod4t3x92rk/dxejh6gh). Anyone who wastes his time loses their turn to somebody else, and he is civil about it. Every party that comes back owes him an account of what actually happened out there, not what the notice said.
 
 He came over on the third expedition and remembers when the tent was still canvas. He does not talk about why he stopped taking jobs and started handing them out. He reads the gate book every day, and he wants fewer lines in it with no return date against them.
