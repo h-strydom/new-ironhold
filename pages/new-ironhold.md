@@ -19,7 +19,7 @@ Nobody will ask you to haul stone, cut timber or empty a hold. That is not what 
 
 For that you get a room at [[The Last Berth]]. One each, to yourself, free. That is where the privilege stops. The water ration and the expedition meal are free and taste like it, and anything you would actually choose to eat is bought the same way anybody else buys it.
 
-Twelve expeditions landed before yours. None of the adventurers from those twelve are still working. **Whatever privilege you hold inside the wall, you pay for outside it, and the rate is not negotiable.**
+Twelve expeditions landed before yours. None of the adventurers from those twelve are still working. **Whatever privilege you hold inside the wall, you pay for outside it, and the rate is nonnegotiable.**
 
 Three bodies run New Ironhold, and between them they hand out most of the work worth doing.
 
