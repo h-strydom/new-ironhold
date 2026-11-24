@@ -18,7 +18,7 @@ She holds still in a way that makes other people fidget, and has never given any
 
 She would rather wait a season for a clean harvest than pay for a rushed one at a discount. She is not cold. She is entirely comfortable telling a seller when she thinks a bad job is what she is being offered. She pays over the board rate for anything intact that came out of the ground here, and if it is already broken she will still look.
 
-She was a senior alchemist before the Treaty of Ashvale was signed. That puts her past a century at the least, and she will not be drawn on her age. [Threnval](/a/cmt21jyb000033zod4t3x92rk/dxejh6gh) sent her out with the second wave of investment. She was not the first company representative to arrive, but she is the first one who stayed.
+She was a senior alchemist before the [[Ashvale|Treaty of Ashvale]] was signed. That puts her past a century at the least, and she will not be drawn on her age. [Threnval](/a/cmt21jyb000033zod4t3x92rk/dxejh6gh) sent her out with the second wave of investment. She was not the first company representative to arrive, but she is the first one who stayed.
 
 :::secret
 Her colouring is not fey blood. She was born beside [Ashvale](/a/cmt21jyb000033zod4t3x92rk/s07t97v0), and the forest changed her. Around [Ashvale](/a/cmt21jyb000033zod4t3x92rk/s07t97v0) what it does is called [Umbriel](/a/cmt21jyb000033zod4t3x92rk/am4xsyhf)'s kiss, and she was not expected to live out her first week. Many of the children born near her that season did not.
