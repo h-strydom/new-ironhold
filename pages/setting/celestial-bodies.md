@@ -2,6 +2,7 @@
 id: 01M854YXXQQ3DRDXF197QY51SE
 title: Celestial Bodies
 visibility: hidden
+order: 30
 ---
 
 Three moons hang over the world, and everyone here calls them the Three Sisters. Nearly everything about how time is measured traces back to them: the length of a month, the days ships are willing to sail, the nights honest folk bolt their doors.

@@ -2,6 +2,7 @@
 id: 01M854Y47CRZ12C79G91Z9E86A
 title: Currency
 visibility: hidden
+order: 20
 ---
 
 Gold means very little on this continent. There is nobody out here to spend it on, and nothing it buys that matters more than staying alive.
