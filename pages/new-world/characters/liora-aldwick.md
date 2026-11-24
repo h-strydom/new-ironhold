@@ -5,7 +5,7 @@ visibility: hidden
 order: 60
 ---
 
-Liora Aldwick runs [The Last Berth](/a/cmt21jyb000033zod4t3x92rk/jo4nvcto) with [Dorne Aldwick](/a/cmt21jyb000033zod4t3x92rk/s7bsp8yt) and does the talking for both of them. Most of what [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2) knows about itself passes through her.
+Liora Aldwick runs [[The Last Berth]] with [Dorne Aldwick](/a/cmt21jyb000033zod4t3x92rk/s7bsp8yt) and does the talking for both of them. Most of what [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2) knows about itself passes through her.
 
 - **Wood elf**, five foot six, lithe.
 - **Copper-red hair**, thick, coming loose from whatever was meant to hold it up.
