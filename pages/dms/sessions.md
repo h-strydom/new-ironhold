@@ -4,8 +4,6 @@ title: Sessions
 visibility: hidden
 ---
 
-## #3 2026-11-18
-
 ## #1 2026-09-16
 
 DnD session 1 notes.
