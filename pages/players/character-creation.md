@@ -7,8 +7,6 @@ order: 10
 
 [[New Ironhold]] runs on Dungeons & Dragons 5.5e, the 2024 ruleset. No restriction on sourcebooks, species or classes: if it is in the 2024 rules, it is on the table.
 
-You
-
 ## Level
 
 Start at level 3.
