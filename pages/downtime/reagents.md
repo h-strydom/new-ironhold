@@ -5,7 +5,7 @@ visibility: hidden
 order: 30
 ---
 
-With the goblins cleared out, the stand's finally fit to work again, and [Threnval](/a/cmt21jyb000033zod4t3x92rk/dxejh6gh) wants it gathered before anything else moves back in.
+With the goblins cleared out, the stand's finally fit to work again, and [[id:01M854JEW07BXK36ETZRPMBTCF|Threnval]] wants it gathered before anything else moves back in.
 
 **What you do:** A day spent working the stand: cutting, drying and sorting what's actually usable from what isn't.
 
