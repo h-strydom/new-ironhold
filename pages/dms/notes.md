@@ -6,4 +6,4 @@ visibility: hidden
 
 ## Ideas
 
-/he
+/h
