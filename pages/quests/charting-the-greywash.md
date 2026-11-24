@@ -10,7 +10,7 @@ order: 20
 
 > SURVEY DIRECTIVE: THE GREYWASH
 >
-> By order of Pioneers: the Greywash remains uncharted past the first bend west of [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2). Two earlier surveys turned back. One lost a canoe to something nesting in the reeds upstream. One reached a narrowing where the river runs to rapids nobody has mapped a safe line through.
+> By order of Pioneers: the Greywash remains uncharted past the first bend west of New Ironhold. Two earlier surveys turned back. One lost a canoe to something nesting in the reeds upstream. One reached a narrowing where the river runs to rapids nobody has mapped a safe line through.
 >
 > Chart the river upstream as far as it can safely be travelled. Identify what took the canoe. Neutralise it, or confirm a route around it.
 >
