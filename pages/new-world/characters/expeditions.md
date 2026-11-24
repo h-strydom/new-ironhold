@@ -13,5 +13,3 @@ Seven of the names are on the first page of the gate book. The other four sit at
 
 | | |
 | - | - |
-
-![prop_gate_book_recto](blob:sha256-8c58333ee0d18fbe7cc59f2d1d64257b384d09855523e91b5c7f7fcb19f34e8a)
