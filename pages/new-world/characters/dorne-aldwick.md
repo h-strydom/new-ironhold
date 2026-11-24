@@ -2,7 +2,7 @@
 id: 01M850ZQ95P5Y9K4CFG61Q3G6H
 title: Dorne Aldwick
 visibility: hidden
-order: 30
+order: 40
 ---
 
 Dorne Aldwick runs [The Last Berth](/a/cmt21jyb000033zod4t3x92rk/jo4nvcto) with [Liora Aldwick](/a/cmt21jyb000033zod4t3x92rk/j9ek6yut) and has never been heard to speak in [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2).

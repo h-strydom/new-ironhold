@@ -2,7 +2,7 @@
 id: 01M85136MGS4ZRMEZ0QHN977Z1
 title: Rosemary
 visibility: hidden
-order: 60
+order: 70
 ---
 
 Rosemary runs [Rosemary and Co.](/a/cmt21jyb000033zod4t3x92rk/l2jh1z0s), New Ironhold's general store, and is the only person in [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2) who gives anything away.

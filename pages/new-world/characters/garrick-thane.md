@@ -2,7 +2,7 @@
 id: 01M850W7K7PAFWPA41H4C54XHZ
 title: Garrick Thane
 visibility: hidden
-order: 40
+order: 50
 ---
 
 Garrick Thane speaks for [Othamar](/a/cmt21jyb000033zod4t3x92rk/hkrwfmbz) in [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2). He is a tradesman who became a company man, and has never quite stopped being the first thing.

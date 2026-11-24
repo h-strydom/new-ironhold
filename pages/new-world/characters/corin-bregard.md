@@ -2,7 +2,7 @@
 id: 01M8517AQWCS57W5JF83T91RVH
 title: Corin Bregard
 visibility: hidden
-order: 20
+order: 30
 ---
 
 Guildmaster of [Quests](/a/cmt21jyb000033zod4t3x92rk/nj5mzdvg) in [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2), which is the Pioneer's building but not his employer. He pays out on every completed job, whoever posted it.
