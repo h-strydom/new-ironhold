@@ -11,6 +11,26 @@ Bit of a slow session, most of it was social and infighting, ended with Henry al
 
 Kai and Balmas hid in The Last Berth. Henry went ons his own.
 
+## #2 2026-10-14
+
+DnD session 2 notes
+
+Same party as session 1 minus balmas. Character passed out drunk and was dragged back into town
+
+Took them 5 days to get to the goblins, made a semi truce with them and fought off gnolls, hobgoblin (steve) and 2 goblins (steven stephan) survived. No herbs rescued.
+
+Steve says they have a female shaman somewhere that knows where to find more herbs. Goblins now work in new ironhold
+
+6 days track back to new ironhold
+
+Anthea has a tendency to collect. Found a bizmuth coloured spiral shell on the way back.
+
+She also found 3 kinds of mushroom, a brown button like mushroom that is jorribly poisonous, a large yellow mushroom that is a hallucinogenic, and a small polip type yello mushroom that looks like the baby yello mushroom, but is actually a different species.
+
+They turned in the quest at ysolde, she paid them full price and tried to buy the shell from anthea, she didnt budge.
+
+Ysolde has 1 of each mushroom and will identify them for anthea.
+
 ## #1 2026-09-16
 
 DnD session 1 notes.
