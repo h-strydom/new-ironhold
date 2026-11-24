@@ -12,7 +12,7 @@ It stands at the landward end of the dock on the east side, so every arrival, ev
 
 The plot came with a condition written into it: adventurers are housed free upstairs, one room each, for as long as there are adventurers to house.
 
-No adventurer has yet claimed one. Twelve expeditions have landed, and the rooms stand made up and empty.
+No adventurer currently have claim on one. Twelve expeditions have landed, and the rooms stand made up and empty.
 
 ## Food and drink
 
