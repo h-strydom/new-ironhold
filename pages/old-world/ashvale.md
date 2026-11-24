@@ -6,8 +6,6 @@ visibility: hidden
 
 A forest, not a city, and as far as anyone on the mainland knows, the only place certain reagents and magical components exist at all. Nobody has managed to transplant, farm or counterfeit what comes out of it.
 
-## Why it was fought over
-
 The scarcity is the whole story. For generations before the treaty, every nation with the reach to try laid claim to Ashvale, because holding it meant holding the supply. None held it outright for long. The forest is hostile to large standing forces, which kept any single claim from sticking without ever stopping the fighting.
 
 ## What it does to the people who live there
