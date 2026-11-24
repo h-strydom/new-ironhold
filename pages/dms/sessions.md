@@ -39,3 +39,5 @@ They turned in the quest at ysolde, she paid them full price and tried to buy th
 Ysolde has 1 of each mushroom and will identify them for anthea.
 
 ## #3 2026-11-18
+
+Had their first
