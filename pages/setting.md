@@ -4,3 +4,6 @@ title: Setting
 visibility: hidden
 order: 70
 ---
+
+:::secret
+:::
