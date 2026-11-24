@@ -5,7 +5,7 @@ visibility: hidden
 order: 80
 ---
 
-Ysolde Marrow speaks for [[id:01M854JEW07BXK36ETZRPMBTCF|Threnval]] in [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2), and is precise in a way that reads as expensive.
+Ysolde Marrow speaks for [[id:01M854JEW07BXK36ETZRPMBTCF|Threnval]] in [[New Ironhold]], and is precise in a way that reads as expensive.
 
 - **Elf**, a shade under six foot, thin and straight-backed.
 - **Ash-grey skin** drawn tight over the bones of her face.
