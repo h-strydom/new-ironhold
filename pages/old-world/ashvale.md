@@ -14,8 +14,6 @@ The mainland has known this for generations and has never treated it as a reason
 
 The people of its edge are the poorest on the mainland, and everyone who buys from Ashvale knows why. Nobody with a choice lives close enough to work its edge, and the labour is cheap because the people doing it have nowhere else to go.
 
-## What it is called
-
 The people who live there call it [Umbriel](/a/cmt21jyb000033zod4t3x92rk/am4xsyhf)**'s kiss** and lay it at her door, because hers is the full night when whatever separates the living from the rest goes thin. It is the answer they give aloud. A cursed moon falls on everybody equally and asks nothing of anyone, which is easier to say to a buyer, and easier to live beside, than that the forest is doing it and the trade will not stop for it.
 
 ## Why the treaty carries its name
