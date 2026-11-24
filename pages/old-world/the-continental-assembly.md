@@ -15,7 +15,7 @@ Every country holds one seat whatever its size, so a citizen of a small country 
 Seven countries sit the assembly.
 
 - **[[Ardessa]]** is a monarchy. The queen takes the seat herself.
-- **[[Cassivere]]**&#x69;s an oligarchy. The nobility choose who represents them, and answer to no one for the choice.
+- **[[Cassivere]]** is an oligarchy. The nobility choose who represents them, and answer to no one for the choice.
 - **Dravoth** settles each of its votes by ritual combat.
 - **Velmora** is a merchant state. The leading consortium backs the delegate and has to buy that backing again every cycle.
 - **Ilvaine** puts the seat to a vote of its citizens, one vote each, with no council or court standing between them and the seat.
