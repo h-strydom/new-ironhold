@@ -4,8 +4,6 @@ title: Gnolls
 visibility: hidden
 ---
 
-## Who they are
-
 Recent arrivals, further west than the goblins and pushing east. A raid drove them out of their previous settlement, and that's the reason they're here at all - not a long-standing claim on this ground, just the nearest place left to go once their last one was taken from them.
 
 They are the more aggressive, better-established threat of the two tribes - better armed and organized than the goblin band they're displacing, and not remotely interested in a deal with New Ironhold. Where the goblins are a diplomacy opportunity, the gnolls are the pressure that creates it: if a party helps the goblins get wiped out instead of settled, the gnolls take the whole strip of ground, and there's no labour-unlock consolation prize on that path.
