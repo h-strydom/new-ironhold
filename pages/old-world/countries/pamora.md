@@ -15,7 +15,7 @@ Pamora buys raw material, works it inside its own borders and sells the result a
 
 ## Ashvale
 
-Pamora buys Ashvale reagents through intermediaries and does not ask what they cost. A country that counts the youngest as full citizens has no standing to be surprised by a forest that marks its children, and it makes no show of being so. Several of Othamar's engineers come from Pamora, and the company knows it is watched.
+Pamora buys Ashvale reagents through intermediaries. A country that counts the youngest as full citizens has no standing to be surprised by a forest that marks its children, and it makes no show of being so. Several of Othamar's engineers come from Pamora, and the company knows it is watched.
 
 ## What the DM can use
 
