@@ -10,8 +10,6 @@ Work that clears the way for gathering. Driving off whatever is fouling a good s
 
 They also hold the town's stock of potions, tonics and rations, shipped across from the old world at a price that carries everything that broke on the way.
 
-## What they are like
-
 Long-established, patient, exact. A spoiled reagent is worth nothing. They wait for a clean harvest and let the quick one go to someone else.
 
 ## Who speaks for them
