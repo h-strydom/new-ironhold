@@ -12,7 +12,7 @@ order: 30
 >
 > Vein's confirmed good. Tunnel isn't. Survey team made it fifty feet in before what's nesting in there ran them out, fast. Spiders. Big ones.
 >
-> Clear the tunnel and confirm it's safe to work, end to end. Bring back proof to [[Corin Bregard]].
+> Clear the tunnel and confirm it's safe to work, end to end. Bring back proof to.
 >
 > Half a day out, marked on the map at the tent. No escort, and none paid for.
 
