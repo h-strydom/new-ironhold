@@ -19,7 +19,7 @@ The same priesthood sets the sailing calendar. A priest rules each year which da
 
 ## Ashvale
 
-Ashvale lies against its border. Ashvale's poor cross over for work in Ondilia's fields and temple workshops, and are taken on cheaply, because they have nowhere better to go. The border is not closed to them, and Ondilia's own granary stays full on their labour.
+[[Ashvale]] lies against its border. Ashvale's poor cross over for work in Ondilia's fields and temple workshops, and are taken on cheaply, because they have nowhere better to go. The border is not closed to them, and Ondilia's own granary stays full on their labour.
 
 ## What the DM can use
 
