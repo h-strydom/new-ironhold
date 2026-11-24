@@ -16,4 +16,4 @@ She has an opinion on everything and gives it before anybody asks. Her hands mov
 
 She wants to hear everything in town before anybody else does, and she does not sell what she knows. She trades it, and the only currency she accepts is more of it. The town's gossip runs through [[The Last Berth]], not through the notice boards, and anybody who wants to know what they are walking into before taking on work asks her.
 
-She married him on the mainland and crossed with him on an early expedition. The rooms upstairs come free by a condition on the plot, one to each adventurer, and she hands out the keys. Anything past the bed and the ration is priced.
+She married him on the mainland and crossed with him on an early expedition. The rooms upstairs come free by a condition on the plot, one to each adventurer. Anything past the bed and the ration is priced.
