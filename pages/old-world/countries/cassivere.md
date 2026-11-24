@@ -9,4 +9,4 @@ One of the seven nations that sit the Continental Assembly. An oligarchy: the no
 
 Slave mutilation is common there, and treated as ordinary upkeep rather than cruelty. Whatever marks a species as property and costs it the most gets taken: a dragonborn loses a horn, an elf has its ears clipped, a pixie loses its wings.
 
-Rosemary was born there, came over on an early expedition
+Rosemary was born there, came over on an early expedition.
