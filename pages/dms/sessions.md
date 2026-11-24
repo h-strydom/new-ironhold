@@ -6,6 +6,11 @@ visibility: hidden
 
 ## #3 2026-11-18
 
+Had their first Veil, Anthea, Balmas, both francois, tobi, jeandre. Hennie/Jaco couldn't make.\
+Bit of a slow session, most of it was social and infighting, ended with Henry almost dying to the shadow monsters.
+
+Kai and Balmas hid in The Last Berth. Henry went ons his own.
+
 ## #1 2026-09-16
 
 DnD session 1 notes.
