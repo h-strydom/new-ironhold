@@ -14,7 +14,7 @@ Built on prime numbers: 3 moons, 5-day weeks, 7-week months, 11-month years, 13t
 | Month | 7 weeks (35 days) | Always begins on Solenne's Full Moon |
 | Year | 11 months (385 days) | Punctuated by annual cosmic events |
 
-## The Three Sisters (moons)
+## The Three Sisters
 
 1. Solenne - The Sovereign / The First Sister
 1. Valora - The Crimson Sister
