@@ -4,4 +4,4 @@ title: Resources
 visibility: hidden
 ---
 
-You can join the campaign through the existing DnD Beyond Campaign.
+Never created a DnD
