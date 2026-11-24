@@ -13,7 +13,7 @@ Dorne Aldwick runs [[The Last Berth]] with [[Liora Aldwick]] and has never been 
 - **Knuckles** broken and reset more than once, badly.
 - **Old and gentle face**.
 
-He sits behind the bar and moves without hurrying, careful of the space he fills\\. When a group comes in he sets a cup down in front of the first of them and the right number beside it, and he has counted them without appearing to look twice.
+He sits behind the bar and moves without hurrying, careful of the space he fills. When a group comes in he sets a cup down in front of the first of them and the right number beside it, and he has counted them without appearing to look twice.
 
 Grunts and gestures cover everything he needs to say, and the whole town has learned to read them rather than the other way round, so nobody in New Ironhold treats the silence as a gap. Whoever talks to him is listened to until they have finished, and he does not look away once.
 
