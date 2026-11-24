@@ -4,4 +4,5 @@ title: Resources
 visibility: hidden
 ---
 
-Never created a DnD character before? Start
+:::info
+:::
