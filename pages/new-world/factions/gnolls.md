@@ -4,8 +4,6 @@ title: Gnolls
 visibility: hidden
 ---
 
-DM reference. Nothing on this page is written for players to read.
-
 ## Who they are
 
 Recent arrivals, further west than the goblins and pushing east. A raid drove them out of their previous settlement, and that's the reason they're here at all - not a long-standing claim on this ground, just the nearest place left to go once their last one was taken from them.
