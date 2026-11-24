@@ -11,8 +11,6 @@ Anyone can take anything. No job is held for whoever read it first or kept back 
 
 Each notice states one reward for the whole party, and you split it however you like. It is paid in [[Currency|Gilda]] once the one who posted the job is satisfied. Your own word that you are finished counts for nothing.
 
-Some jobs leave more behind in the town than the money does. Nobody will tell you in advance which.
-
 ## Before you take one
 
 Read the notice twice. What it does not say is usually the expensive part. Every one was written by somebody with a reason to leave things out, and none of them are paid to keep you alive.
