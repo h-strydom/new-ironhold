@@ -11,8 +11,15 @@ Eleven adventurers, the largest party to leave the gate. They signed out togethe
 
 Seven of the names are on the first page of the gate book. The other four sit at the top of the next, directly above the thirteenth expedition.
 
-| | |
-| - | - |
+:::::table{borderless}
+::::row
+:::cell{header}
+:::
+
+:::cell{header}
+:::
+::::
+:::::
 
 :::secret
 | Name | Race | Class | Homeland | Note |
