@@ -18,4 +18,4 @@ Long-established, patient, exact. A spoiled reagent is worth nothing. They wait 
 
 ## Who speaks for them
 
-[Ysolde Marrow](https://www.legendkeeper.com/a/cmt21jyb000033zod4t3x92rk/yetf9m94).
+[[Ysolde Marrow]].
