@@ -16,7 +16,7 @@ The shop goes up rather than back. Shelving runs to the roof beam, and threaded 
 
 ## Terms
 
-No credit, for anyone: not adventurers, not the companies, not the [Pioneers](/a/cmt21jyb000033zod4t3x92rk/r0szif5c). It is the only fixed rule in the shop.
+No credit, for anyone: not adventurers, not the companies, not the [[Pioneers]]. It is the only fixed rule in the shop.
 
 | Item | Price |
 | - | - |
