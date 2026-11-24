@@ -23,16 +23,16 @@ Built on prime numbers: 3 moons, 5-day weeks, 7-week months, 11-month years, 13t
 
 ## Months
 
-| # | Month | Root |
-| - | - | - |
-| 1 | Prima | *primus* (first) |
-| 2 | Secunda | *secundus* (second) |
-| 3 | Tertia | *tertius* (third) |
-| 4 | Quarta | *quartus* (fourth) |
-| 5 | Quinta | *quintus* (fifth) |
-| 6 | Sexta | *sextus* (sixth) |
-| 7 | September | *septem* (seven) |
-| 8 | October | *octo* (eight) |
-| 9 | November | *novem* (nine) |
-| 10 | December | *decem* (ten) |
-| 11 | Undecima | *undecimus* (eleventh) |
+| # | Month |
+| - | - |
+| 1 | Prima |
+| 2 | Secunda |
+| 3 | Tertia |
+| 4 | Quarta |
+| 5 | Quinta |
+| 6 | Sexta |
+| 7 | September |
+| 8 | October |
+| 9 | November |
+| 10 | December |
+| 11 | Undecima |
