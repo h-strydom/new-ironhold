@@ -11,7 +11,7 @@ Dorne Aldwick runs [[The Last Berth]] with [[Liora Aldwick]] and has never been 
 - **Grey hide** the colour of river stone, with raised patterning across the shoulders and forearms that catches the lamplight when he shifts.
 - **Hauling scars** cut through the patterning on both shoulders.
 - **Knuckles** broken and reset more than once, badly.
-- **A face** that has been old for a while now, and gentle.
+- **A face** that isbeen old for a while now, and gentle.
 
 He sits behind the bar and moves without hurrying, careful of the space he fills, which is always more than he means to. When a group comes in he sets a cup down in front of the first of them and the right number beside it, and he has counted them without appearing to look twice.
 
