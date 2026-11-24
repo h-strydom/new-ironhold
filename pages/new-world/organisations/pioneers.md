@@ -4,7 +4,7 @@ title: Pioneers
 visibility: hidden
 ---
 
-The Pioneer chartered the expedition that made [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2) possible and funded the first survey ships. It answers to [The Continental Assembly](/a/cmt21jyb000033zod4t3x92rk/gprg3g2e) as a whole and to none of its seven countries alone. It is the only part of the assembly that reaches [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2).
+The Pioneer chartered the expedition that made [[New Ironhold]] possible and funded the first survey ships. It answers to [The Continental Assembly](/a/cmt21jyb000033zod4t3x92rk/gprg3g2e) as a whole and to none of its seven countries alone. It is the only part of the assembly that reaches [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2).
 
 ## What it posts
 
