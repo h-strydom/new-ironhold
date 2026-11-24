@@ -10,7 +10,7 @@ The scarcity is the whole story. For generations before the treaty, every nation
 
 Everyone born in or near Ashvale carries something of it. Most of it is small: pigment gone out of the hair, a hand that never formed properly, teeth that came through wrong. Some of it is not small, and a real share of the children marked that badly do not survive their first week.
 
-The mainland has known this for generations and has never treated it as a reason to stop. The reagents have no other source, and the people nearest the forest absorb the cost so that nobody else has to. Nothing to that effect was written into the treaty signed in their forest, and nobody at [The Continental Assembly](/a/cmt21jyb000033zod4t3x92rk/gprg3g2e) has raised it since.
+The mainland has known this for generations and has never treated it as a reason to stop. The reagents have no other source, and the people nearest the forest absorb the cost so that nobody else has to. Nothing to that effect was written into the treaty signed in their forest, and nobody at [[The Continental Assembly]] has raised it since.
 
 The people of its edge are the poorest on the mainland, and everyone who buys from Ashvale knows why. Nobody with a choice lives close enough to work its edge, and the labour is cheap because the people doing it have nowhere else to go.
 
