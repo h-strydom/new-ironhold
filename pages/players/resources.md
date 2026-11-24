@@ -10,4 +10,4 @@ Never created a DnD character before?
 ## Start [HERE](https://youtu.be/GXwYXyKwaDo?si=XdfoDzU4dlxFX1YN)
 :::
 
-Join the [DnD Beyond Campaign](https://www.dndbeyond.com/campaigns/join/78973332182392809)
+Join the [DnD Beyond Campaign](https://www.dndbeyond.com/campaigns/join/78973332182392809) OR
