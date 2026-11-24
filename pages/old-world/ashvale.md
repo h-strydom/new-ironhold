@@ -8,8 +8,6 @@ A forest, not a city, and as far as anyone on the mainland knows, the only place
 
 The scarcity is the whole story. For generations before the treaty, every nation with the reach to try laid claim to Ashvale, because holding it meant holding the supply. None held it outright for long. The forest is hostile to large standing forces, which kept any single claim from sticking without ever stopping the fighting.
 
-## What it does to the people who live there
-
 Everyone born in or near Ashvale carries something of it. Most of it is small: pigment gone out of the hair, a hand that never formed properly, teeth that came through wrong. Some of it is not small, and a real share of the children marked that badly do not survive their first week.
 
 The mainland has known this for generations and has never treated it as a reason to stop. The reagents have no other source, and the people nearest the forest absorb the cost so that nobody else has to. Nothing to that effect was written into the treaty signed in their forest, and nobody at [The Continental Assembly](/a/cmt21jyb000033zod4t3x92rk/gprg3g2e) has raised it since.
