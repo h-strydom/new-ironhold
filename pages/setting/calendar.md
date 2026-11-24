@@ -4,7 +4,9 @@ title: Calendar
 visibility: hidden
 ---
 
+:::secret
 Built on prime numbers: 3 moons, 5-day weeks, 7-week months, 11-month years, 13th expedition.
+:::
 
 | Division | Composition | Notes |
 | - | - | - |
