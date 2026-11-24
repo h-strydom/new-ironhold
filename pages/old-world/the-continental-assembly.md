@@ -4,7 +4,7 @@ title: The Continental Assembly
 visibility: hidden
 ---
 
-The Continental Assembly was formalised by the Treaty of Ashvale, signed in year 0 of the calendar. Every country sends one delegate, and each delegate casts a single vote. Among its delegates the assembly is a pure democracy. Inside a country's borders it has no say, and each country governs itself as it chooses.
+The Continental Assembly was formalised by the [[Ashvale|Treaty of Ashvale]], signed in year 0 of the calendar. Every country sends one delegate, and each delegate casts a single vote. Among its delegates the assembly is a pure democracy. Inside a country's borders it has no say, and each country governs itself as it chooses.
 
 ## Representation
 
