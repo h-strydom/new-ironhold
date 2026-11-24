@@ -23,7 +23,7 @@ Twelve expeditions landed before yours. None of the adventurers from those twelv
 
 Three bodies run New Ironhold, and between them they hand out most of the work worth doing.
 
-The [[Pioneers]] settle disputes here. It chartered the whole venture, answers to [[The Continental Assembly|the Continental Assembly]], and calls the official surveys.
+The [[Pioneers]] settle disputes here. They chartered the whole venture, answers to [[The Continental Assembly|the Continental Assembly]], and calls the official surveys.
 
 Trading companies followed the [[Pioneers]] out here chasing their own fortunes, private outfits with no obligation to anyone but their backers. Two operate out of New Ironhold at present: [[id:01M854GJFBAES917146Q2016YD|Othamar]], hauling in engineers and machinery, and [[id:01M854JEW07BXK36ETZRPMBTCF|Threnval]], dealing in reagents and old-world magecraft. Friendly rivals, not enemies, but both are competing for the same hands.
 
