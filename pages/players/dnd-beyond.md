@@ -4,4 +4,4 @@ title: DnD Beyond
 visibility: hidden
 ---
 
-You can join
+You can join the campaign through the
