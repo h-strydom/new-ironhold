@@ -4,6 +4,8 @@ title: Sessions
 visibility: hidden
 ---
 
+## #3 2026-11-18
+
 ## #1 2026-09-16
 
 DnD session 1 notes.
@@ -37,8 +39,6 @@ She also found 3 kinds of mushroom, a brown button like mushroom that is jorribl
 They turned in the quest at ysolde, she paid them full price and tried to buy the shell from anthea, she didnt budge.
 
 Ysolde has 1 of each mushroom and will identify them for anthea.
-
-## #3 2026-11-18
 
 Had their first Veil, Anthea, Balmas, both francois, tobi, jeandre. Hennie/Jaco couldn't make.\
 Bit of a slow session, most of it was social and infighting, ended with Henry almost dying to the shadow monsters.
