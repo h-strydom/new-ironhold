@@ -11,3 +11,4 @@
 - { blob: "blob:sha256-8c58333ee0d18fbe7cc59f2d1d64257b384d09855523e91b5c7f7fcb19f34e8a", name: "prop_gate_book_recto.png", added: "2026-11-24T11:06:33Z", folder: "props" }
 - { folder: "cheat_sheets" }
 - { folder: "misc" }
+- { blob: "blob:sha256-f223ca7bf03bcb4062ed1487816c1c1fd8b8d51d49011bfd02d63cad75f54454", name: "5.5e_CharacterSheet.pdf", added: "2026-11-24T21:34:39Z", folder: "misc" }
