@@ -11,5 +11,5 @@ visibility: hidden
 1. Ilvaine
 1. Aurelis
 1. Quintane
-1. Auremont\
-   Solmara
+1. Auremont
+1. Solmara
