@@ -14,6 +14,6 @@ order: 30
 >
 > Clear the tunnel and confirm it's safe to work, end to end. Bring back proof to.
 >
-> Half a day out, marked on the map at the tent. No escort, and none paid for.
+> Half a day out, marked on the map at the tent. No escort,
 
 **Reward:** 15,000₲
