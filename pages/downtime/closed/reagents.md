@@ -2,7 +2,7 @@
 id: 01M858E190RW39N472HKZTAXMK
 title: Reagents
 visibility: hidden
-order: 30
+order: 10
 ---
 
 With the goblins cleared out, the stand's finally fit to work again, and [[id:01M854JEW07BXK36ETZRPMBTCF|Threnval]] wants it gathered before anything else moves back in.
