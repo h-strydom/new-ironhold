@@ -10,8 +10,6 @@ Work that clears the way for building. Hauling ore, levelling ground, recovering
 
 They are the fastest route to practical gear in [[New Ironhold]]: tools and weapons their engineers have finished.
 
-## What they are like
-
 Practical, hard-driving, unsentimental. Othamar has no use for glory or old-world magecraft. Where a clever rig will do the work of a spell, they would rather pay for the rig.
 
 ## Who speaks for them
