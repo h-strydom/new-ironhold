@@ -8,7 +8,7 @@ A trading company built on old-world engineers and machinists. Othamar wants raw
 
 Work that clears the way for building. Hauling ore, levelling ground, recovering machinery or components intact. Othamar pays less for the same object in pieces.
 
-They are the fastest route to practical gear in [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2): tools and weapons their engineers have finished.
+They are the fastest route to practical gear in [[New Ironhold]]: tools and weapons their engineers have finished.
 
 ## What they are like
 
