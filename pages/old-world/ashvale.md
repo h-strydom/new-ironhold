@@ -18,7 +18,7 @@ The people who live there call it **[[Umbriel|Umbriel's]] kiss** and lay it at h
 
 ## Why the treaty carries its name
 
-Ashvale is where the treaty was signed, not merely what it was named after. It was the one piece of ground every warring party had a real stake in and none of them controlled, neutral by necessity long before [The Continental Assembly](/a/cmt21jyb000033zod4t3x92rk/gprg3g2e) made it neutral by law.
+Ashvale is where the treaty was signed, not merely what it was named after. It was the one piece of ground every warring party had a real stake in and none of them controlled, neutral by necessity long before [[The Continental Assembly]] made it neutral by law.
 
 ## Threnval
 
