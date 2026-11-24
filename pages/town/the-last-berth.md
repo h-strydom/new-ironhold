@@ -4,7 +4,7 @@ title: The Last Berth
 visibility: hidden
 ---
 
-[[New Ironhold|New Ironhold's]] inn, and the only building in town that everybody passes. Run by [[Dorne Aldwick]] and [Liora Aldwick](/a/cmt21jyb000033zod4t3x92rk/j9ek6yut).
+[[New Ironhold|New Ironhold's]] inn, and the only building in town that everybody passes. Run by [[Dorne Aldwick]] and [[Liora Aldwick]].
 
 It stands at the landward end of the dock on the west side, so every arrival, every departure and every crate off every ship goes past its windows. That is most of why Liora knows what she knows without leaving the building.
 
