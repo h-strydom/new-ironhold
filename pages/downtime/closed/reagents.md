@@ -12,4 +12,5 @@ With the goblins cleared out, the stand's finally fit to work again, and [[id:01
 **What you get:** 50₲ a day, plus a health potion for every five days (one week) worked - [Threnval](/a/cmt21jyb000033zod4t3x92rk/dxejh6gh) pays partly in what you're gathering, not just in coin.
 
 :::secret
+Clearing ruined by the Gnolls and
 :::
