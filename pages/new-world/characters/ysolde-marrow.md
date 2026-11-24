@@ -21,7 +21,7 @@ She would rather wait a season for a clean harvest than pay for a rushed one at 
 She was a senior alchemist before the [[Ashvale|Treaty of Ashvale]] was signed. That puts her past a century at least. [[id:01M854JEW07BXK36ETZRPMBTCF|Threnval]] sent her out with the second wave of investment. She was not the first company representative to arrive, but she is the first one who stayed.
 
 :::secret
-Her colouring is not fey blood. She was born beside [[Ashvale]], and the forest changed her. Around [[Ashvale]] what it does is called Umbriel's kiss, and she was not expected to live out her first week. Many of the children born near her that season did not.
+Her colouring is not fey blood. She was born beside [[Ashvale]], and the forest changed her. Around [[Ashvale]] what it does is called [[Umbriel|Umbriel's]] kiss, and she was not expected to live out her first week. Many of the children born near her that season did not.
 :::
 
 :::secret
