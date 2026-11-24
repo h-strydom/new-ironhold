@@ -24,4 +24,4 @@ Seven countries sit the assembly.
 
 ## Why it does not reach New Ironhold
 
-Nothing continent-wide moves without every country voting on it, and getting seven governments to agree takes years. Nobody treats that as a flaw. It is why [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2) operates as it does: whatever matters there is settled by expeditions long before the assembly could weigh in.
+Nothing continent-wide moves without every country voting on it, and getting seven governments to agree takes years. Nobody treats that as a flaw. It is why [[New Ironhold]] operates as it does: whatever matters there is settled by expeditions long before the assembly could weigh in.
