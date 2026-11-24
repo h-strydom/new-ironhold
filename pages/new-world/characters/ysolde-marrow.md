@@ -25,5 +25,5 @@ Her colouring is not fey blood. She was born beside [[Ashvale]], and the forest 
 :::
 
 :::secret
-[[id:01M854JEW07BXK36ETZRPMBTCF|Threnval]] sent her to learn whether this continent can replace [Ashvale](/a/cmt21jyb000033zod4t3x92rk/s07t97v0), and she has told nobody in [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2). She came hoping a second source would let the trade stop bleeding [Ashvale](/a/cmt21jyb000033zod4t3x92rk/s07t97v0), so that children born there afterwards might come out whole. [Threnval](/a/cmt21jyb000033zod4t3x92rk/dxejh6gh) does not know that is part of why she came.
+[[id:01M854JEW07BXK36ETZRPMBTCF|Threnval]] sent her to learn whether this continent can replace [[Ashvale]], and she has told nobody in [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2). She came hoping a second source would let the trade stop bleeding [Ashvale](/a/cmt21jyb000033zod4t3x92rk/s07t97v0), so that children born there afterwards might come out whole. [Threnval](/a/cmt21jyb000033zod4t3x92rk/dxejh6gh) does not know that is part of why she came.
 :::
