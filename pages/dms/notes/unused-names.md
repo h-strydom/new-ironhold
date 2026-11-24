@@ -7,10 +7,15 @@ visibility: hidden
 ## Trading companies:
 
 1. Vermeil
+
 1. Cindral
+
 1. Ilvaine
+
 1. Aurelis
+
 1. Quintane
+
 1. Auremont
 
-1) Solmara
+   Solmara
