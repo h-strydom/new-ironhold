@@ -14,7 +14,7 @@ order: 40
 >
 > We sent a cart up with everything needed to bridge it. Winch, cable, saws, iron. Last month's rains put the cart in the ravine.
 >
-> Get the tools out. Every crate, or near enough that we can start. Something's holed up in there. The first crew turned back before they got down. Don't need it dead, just gone or avoided.
+> Get the tools out. Every crate, or near enough that we can start. Something's holed up in there. The first crew turned back before they got down.
 >
 > Bring rope. Bring more than you think.
 
