@@ -5,7 +5,7 @@ visibility: hidden
 order: 70
 ---
 
-Rosemary runs [[Rosemary and Co.]], New Ironhold's general store, and is the only person in [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2) who gives anything away.
+Rosemary runs [[Rosemary and Co.]], [[New Ironhold|New Ironhold's]] general store, and is the only person in [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2) who gives anything away.
 
 - **Pixie**, five inches tall, slight and quick on her feet.
 - **No wings.** Not stumps, not scar tissue, only flat where they were, which is worse to look at than a wound would be.
