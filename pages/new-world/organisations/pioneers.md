@@ -6,7 +6,7 @@ visibility: hidden
 
 The Pioneer chartered the expedition that made [[New Ironhold]] possible and funded the first survey ships. It answers to [[The Continental Assembly]] as a whole and to none of its seven countries alone. It is the only part of the assembly that reaches [[New Ironhold]].
 
-## What it posts
+##
 
 Its official work is surveys, mapping, securing routes and anything that adds to what [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2) knows of the continent under it.
 
