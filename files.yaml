@@ -8,3 +8,4 @@
 - { blob: "blob:sha256-69a92c6f3a4f746d3da51842e8d28e77d0e9dc25ec5a17e8b2f24e22bb67e6ce", name: "last_berth_menu.png", added: "2026-11-23T21:07:38Z", folder: "props" }
 - { blob: "blob:sha256-700de7e057460ed87ef9818a014f4d90796fa2459383cf772362ddaa0a696f15", name: "new_ironhold.png", added: "2026-11-23T22:03:32Z", folder: "maps" }
 - { blob: "blob:sha256-eca6835cfd7c6d607643541eb2d24439fe4a16518451f938656478df6ba917d0", name: "prop_gate_book_verso.png", added: "2026-11-24T11:06:33Z", folder: "props" }
+- { blob: "blob:sha256-8c58333ee0d18fbe7cc59f2d1d64257b384d09855523e91b5c7f7fcb19f34e8a", name: "prop_gate_book_recto.png", added: "2026-11-24T11:06:33Z", folder: "props" }
