@@ -2,6 +2,7 @@
 id: 01M854T15B6D93A9BJ5YRJ4BAP
 title: Ashvale
 visibility: hidden
+order: 10
 ---
 
 A forest, not a city, and as far as anyone on the mainland knows, the only place certain reagents and magical components exist at all. Nobody has managed to transplant, farm or counterfeit what comes out of it.
