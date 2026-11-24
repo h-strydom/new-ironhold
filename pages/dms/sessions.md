@@ -40,4 +40,4 @@ Ysolde has 1 of each mushroom and will identify them for anthea.
 
 ## #3 2026-11-18
 
-Had their first Veil, Anthea,
+Had their first Veil, Anthea, Ba
