@@ -11,7 +11,7 @@ Any person may be drawn, so every household plans around it. Anyone drawn leaves
 
 ## Land and trade
 
-Pamora buys raw material, works it inside its own borders and sells the result as luxury goods, which the other countries compete to buy. The working forest supplies the timber and charcoal the workshops run on. Children do a large share of the work, and nobody in Pamora remarks on it. A child's labour is bound by written indenture like any adult's, and the child holds a copy of the paper. That is the country's answer to the charge, and it is enough for Pamora. The paper binds the child as firmly as it binds the master, and as often to the workshop as against it. What it imports and what it sells are not decided yet.
+Pamora buys raw material, works it inside its own borders and sells the result as luxury goods, which the other countries compete to buy. The working forest supplies the timber and charcoal the workshops run on. Children do a large share of the work, and nobody in Pamora remarks on it. A child's labour is bound by written indenture like any adult's, and the child holds a copy of the paper. That is the country's answer to the charge, and it is enough for Pamora. The paper binds the child as firmly as it binds the master, and as often to the workshop as against it.
 
 ## Ashvale
 
