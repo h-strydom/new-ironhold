@@ -8,4 +8,4 @@ The slop house is a long, low, smoke-blackened building beside the bunkhouse in 
 
 The food is bad and nobody pretends otherwise. What comes out of the pot changes with what came off the last ship or out of the last hunt. It is free every day, to anyone.
 
-Food worth paying for is at [The Last Berth](/a/cmt21jyb000033zod4t3x92rk/jo4nvcto).
+Food worth paying for is at [[The Last Berth]].
