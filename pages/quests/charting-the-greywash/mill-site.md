@@ -17,5 +17,5 @@ visibility: hidden
 
 :::secret
 - Gives access to a mill, cheaper food, more ore and better processing.
-- Downtime activit.
+- Downtime activities.
 :::
