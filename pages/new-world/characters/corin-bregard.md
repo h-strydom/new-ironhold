@@ -5,7 +5,7 @@ visibility: hidden
 order: 30
 ---
 
-Guildmaster of [Quests](/a/cmt21jyb000033zod4t3x92rk/nj5mzdvg) in [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2), which is the Pioneer's building but not his employer. He pays out on every completed job, whoever posted it.
+Guildmaster of [[Quests]] in [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2), which is the Pioneer's building but not his employer. He pays out on every completed job, whoever posted it.
 
 - **Human, in his sixties.** Broad across the shoulders and gone soft through the middle.
 - **Grey hair** cropped to the skull, over a weathered face.
