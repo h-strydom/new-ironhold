@@ -7,7 +7,7 @@ order: 60
 
 Its seat is drawn by lot from every citizen, children included, and whoever comes up serves one term, whatever their age, trade or fitness for it. A drawn child sits the assembly in person and casts the vote themselves. Pamora reasons onward from that: a child who can be trusted with a vote can be trusted with work, and children work in Pamora from the age they can be written into a contract. It is a large country of dense working forest. It grew by financial takeover, buying a neighbour's debts and then the neighbour.
 
-Any person may be drawn, so every household plans around it. Anyone drawn leaves their trade and their family for the term. The state houses them and appoints staff, all in writing. Children learn to read before anything else, because a delegate who cannot read a contract cannot be protected by one. Written contracts are sacred in Pamora and spoken ones are not recognised at all. A promise made to a child delegate in a corridor is nothing, so anyone who wants that vote must put the price on paper, and paper is evidence. Most of the work for the consortia is in becoming the guardian.
+Any person may be drawn, so every household plans around it. Anyone drawn leaves their trade and their family for the term. The state houses them and appoints staff, all in writing. Children learn to read before anything else, because a delegate who cannot read a contract cannot be protected by one. Written contracts are sacred in Pamora and spoken ones are not recognised at all. A promise made to a delegate in a corridor is nothing, so anyone who wants that vote must put the price on paper, and paper is evidence. Most of the work for the consortia is in becoming the guardian.
 
 ## Land and trade
 
