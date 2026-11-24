@@ -5,7 +5,7 @@ visibility: hidden
 order: 60
 ---
 
-Its seat is drawn by lot from every citizen, children included, and whoever comes up serves one term, whatever their age, trade or fitness for it. A drawn child sits the assembly in person and casts the vote themselves. Pamora reasons onward from that: a child who can be trusted with a vote can be trusted with work, and children work in Pamora from the age they can be written into a contract. It is a large country of dense working forest. It grew by financial takeover, buying a neighbour's debts and then the neighbour, and each one cost it a seat. It has stopped on purpose.
+Its seat is drawn by lot from every citizen, children included, and whoever comes up serves one term, whatever their age, trade or fitness for it. A drawn child sits the assembly in person and casts the vote themselves. Pamora reasons onward from that: a child who can be trusted with a vote can be trusted with work, and children work in Pamora from the age they can be written into a contract. It is a large country of dense working forest. It grew by financial takeover, buying a neighbour's debts and then the neighbour,
 
 ## Seat
 
