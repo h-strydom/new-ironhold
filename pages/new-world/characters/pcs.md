@@ -4,5 +4,3 @@ title: PCs
 visibility: hidden
 order: 10
 ---
-
-/tab
