@@ -20,7 +20,7 @@ Seven of the names are on the first page of the gate book. The other four sit at
 | Ignatius Pomfrey | Human | Wizard | Cassivere | Alchemist, a lord's third son. Nobody can say why he took a contract. |
 | Tamsin Quarrell | Human | Cleric | Ardessa | Field medic. Her surname is a crossbow bolt. |
 | Dagny Skarn | Human | Barbarian | Dravoth | Duelist. Left a seat challenge behind her. |
-| Orinn Yarjerit | Dragonborn | Paladin | Cassivere | Quartermaster. Optionally missing a horn ( Cassivere born. |
+| Orinn Yarjerit | Dragonborn | Paladin | Cassivere | Quartermaster. Optionally missing a horn (Cassivere born. |
 | Lucan Merisi | Human | Ranger | Ilvaine | Surveyor. Named for Lord Lucan, who vanished and was never found. |
 | Marisol Ferrante | Human | Rogue | Velmora | Paymaster. Carried the Gilda. |
 | Cormac Dunmore | Human | Warlock | Unknown | Hedge-mage. A long walk with no arrival. |
