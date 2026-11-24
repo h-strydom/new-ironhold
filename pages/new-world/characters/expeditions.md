@@ -24,7 +24,7 @@ Seven of the names are on the first page of the gate book. The other four sit at
 | Lucan Merisi | Human | Ranger | Ilvaine | Surveyor. Named for Lord Lucan, who vanished and was never found. |
 | Marisol Ferrante | Human | Rogue | Velmora | Paymaster. Carried the Gilda. |
 | Cormac Dunmore | Human | Warlock | Unknown | Hedge-mage. |
-| Fenna Brandt | Halfling | Druid | Unknown | Porter. Plain enough to read as a real hire. |
+| Fenna Brandt | Halfling | Druid | Unknown | Porter. |
 | Jory Attwater | Human | Fighter | Ardessa | Squire, the youngest. Gideon's squire. |
 | Rhiannon Crake | Elf | Bard | Unknown | Wrote songs. A songbook could turn up later. |
 | Gideon Halloran | Human | Fighter | Ardessa | Old sergeant on a last contract. Jory's sergeant. |
