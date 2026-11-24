@@ -14,4 +14,4 @@ Practical, hard-driving, unsentimental. Othamar has no use for glory or old-worl
 
 ## Who speaks for them
 
-[Garrick Thane](/a/cmt21jyb000033zod4t3x92rk/fb2zw9rw), usually found in Othamar's yard.
+[[Garrick Thane]], usually found in Othamar's yard.
