@@ -4,4 +4,4 @@ title: DnD Beyond
 visibility: hidden
 ---
 
-You can join the campaign through the
+You can join the campaign through the existing DnD Beyond
