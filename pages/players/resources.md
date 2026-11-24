@@ -6,5 +6,5 @@ visibility: hidden
 
 :::info
 Never created a DnD character before?\
-Start HERE
+Start \[\[
 :::
