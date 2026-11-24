@@ -5,7 +5,7 @@ visibility: hidden
 order: 30
 ---
 
-Guildmaster of [[Quests]] in [[New Ironhold]], which is the Pioneer's building but not his employer.
+Guildmaster of [[Quests]] in [[New Ironhold]], which is the Pioneers's building but not his employer.
 
 - **Human, in his sixties.** Broad across the shoulders and gone soft through the middle.
 - **Grey hair** cropped to the skull, over a weathered face.
