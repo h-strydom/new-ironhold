@@ -18,7 +18,7 @@ Built on prime numbers: 3 moons, 5-day weeks, 7-week months, 11-month years, 13t
 
 1. [[Solenne]] - The Sovereign / The First Sister
 1. [[Valora]] - The Crimson Sister
-1. [[Umbriel]] - The Dark Sister / The Veil
+1. [[Umbriel]] - The Dark Sister / The Veil Umbriel
 
 ## Months
 
