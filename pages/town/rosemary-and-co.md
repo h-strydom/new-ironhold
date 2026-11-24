@@ -18,167 +18,23 @@ The shop goes up rather than back. Shelving runs to the roof beam, and threaded 
 
 No credit, for anyone: not adventurers, not the companies, not the [[Pioneers]]. It is the only fixed rule in the shop.
 
-:::::table{borderless}
-::::row
-:::cell{header}
-Item
-:::
-
-:::cell{header}
-Price
-:::
-::::
-
-::::row
-:::cell
-Rope, hempen, 50ft
-:::
-
-:::cell
-125₲
-:::
-::::
-
-::::row
-:::cell
-Rope, silk, 50ft
-:::
-
-:::cell
-1,250₲
-:::
-::::
-
-::::row
-:::cell
-Lamp
-:::
-
-:::cell
-63₲
-:::
-::::
-
-::::row
-:::cell
-Oil, flask
-:::
-
-:::cell
-13₲
-:::
-::::
-
-::::row
-:::cell
-Tinderbox
-:::
-
-:::cell
-63₲
-:::
-::::
-
-::::row
-:::cell
-Waterskin
-:::
-
-:::cell
-25₲
-:::
-::::
-
-::::row
-:::cell
-Torches, bundle of 10
-:::
-
-:::cell
-13₲
-:::
-::::
-
-::::row
-:::cell
-Backpack
-:::
-
-:::cell
-250₲
-:::
-::::
-
-::::row
-:::cell
-Bedroll
-:::
-
-:::cell
-125₲
-:::
-::::
-
-::::row
-:::cell
-Canvas, small tent
-:::
-
-:::cell
-250₲
-:::
-::::
-
-::::row
-:::cell
-Sturdy boots
-:::
-
-:::cell
-63₲
-:::
-::::
-
-::::row
-:::cell
-Fishing tackle
-:::
-
-:::cell
-125₲
-:::
-::::
-
-::::row
-:::cell
-Calendar
-:::
-
-:::cell
-500₲
-:::
-::::
-
-::::row
-:::cell
-Moon phase
-:::
-
-:::cell
-900₲
-:::
-::::
-
-::::row
-:::cell
-Map of the town
-:::
-
-:::cell
-Free
-:::
-::::
-:::::
+| Item | Price |
+| - | - |
+| Rope, hempen, 50ft | 125₲ |
+| Rope, silk, 50ft | 1,250₲ |
+| Lamp | 63₲ |
+| Oil, flask | 13₲ |
+| Tinderbox | 63₲ |
+| Waterskin | 25₲ |
+| Torches, bundle of 10 | 13₲ |
+| Backpack | 250₲ |
+| Bedroll | 125₲ |
+| Canvas, small tent | 250₲ |
+| Sturdy boots | 63₲ |
+| Fishing tackle | 125₲ |
+| Calendar | 500₲ |
+| Moon phase | 900₲ |
+| Map of the town | Free |
 
 :::secret
 | Item | Starting | Lowest (haggle) | Highest | Bulk (2 shipments/2 months) |
