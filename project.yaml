@@ -2,3 +2,12 @@ name: New Ironhold
 visibility: hidden
 home: "[[id:01M81845RHS2Y1HFSEEXDDK68K]]"
 calendar: new-ironhold
+today:
+  {
+    calendar: new-ironhold,
+    year: 43,
+    era: ATA,
+    month: secunda,
+    day: 21,
+    abs: 16610
+  }
