@@ -2,7 +2,7 @@
 id: 01M87BEJFTN0B8P81X0GH3FZ02
 title: Pamora
 visibility: hidden
-order: 60
+order: 50
 ---
 
 Its seat is drawn by lot from every citizen, children included, and whoever comes up serves one term, whatever their age, trade or fitness for it. A drawn child sits the assembly in person and casts the vote themselves. Pamora reasons onward from that: a child who can be trusted with a vote can be trusted with work, and children work in Pamora from the age they can be written into a contract. It is a large country of dense working forest. It grew by financial takeover, buying a neighbour's debts and then the neighbour.
