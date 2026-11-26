@@ -7,6 +7,7 @@ visibility: hidden
 :::::table
 ::::row
 :::cell
+/ima
 :::
 
 :::cell
