@@ -2,7 +2,7 @@
 id: 01M87BET7E7BG98NYANKMFRQVE
 title: Ondilia
 visibility: hidden
-order: 60
+order: 50
 ---
 
 A theocracy: the seat is an office of the faith, not anyone's right, and the temples fill it from within. Each temple names one of its priests to the rank above it, rank names rank, and whoever stands at the top of that ladder is the delegate for as long as the office is theirs. Nobody outside the priesthood has a hand in it. The ladder is hierarchical and it is corrupt: a priest rises because the priest above him chose him, and a priest above him is owed for it. Nobody in Ondilia goes hungry, and only the one at the top lives well.
