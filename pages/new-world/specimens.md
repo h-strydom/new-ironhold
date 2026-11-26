@@ -5,3 +5,6 @@ visibility: hidden
 ---
 
 Yellow Fellow
+
+:::secret
+:::
