@@ -13,3 +13,4 @@
 - { blob: "blob:sha256-4ae4071655bafed412cd9656308414bd0d0d8c0c907566994b0e2899c41665c8", name: "forest-brown-shaggy-scalycap.png", added: "2026-11-26T21:18:40Z", folder: "specimens" }
 - { blob: "blob:sha256-6bad37d8786a90b6369e9049afa571b2b15189f10a427fddee960460e5d1027d", name: "specimen-bismuth-shell-engraved-vivid.png", added: "2026-11-26T21:18:40Z", folder: "specimens" }
 - { blob: "blob:sha256-a6036b16a10d60f52a56285948f73fcdb9b78f34e64e2a1881d91b00fe5dfec2", name: "yellow-berserker.png", added: "2026-11-26T21:18:40Z", folder: "specimens" }
+- { blob: "blob:sha256-459bc7e49bb4c14ffe74f1dfb5fd6eba1008b21cd9ac30884ec6855f9884fe2f", name: "yellow-chanterelle.png", added: "2026-11-26T21:18:40Z", folder: "specimens" }
