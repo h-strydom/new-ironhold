@@ -2,9 +2,15 @@ title: Timeline
 calendar: new-ironhold
 lanes:
   - { id: old-world, title: Old World }
+  - { id: new-world, title: New World }
 events:
   - id: ed563517dfa
     lane: old-world
     title: Signing of the Ashvale Treaty
     start: { calendar: new-ironhold, year: 0, era: ATA, abs: 0 }
+    visibility: hidden
+  - id: ec1b9b3fe89
+    lane: new-world
+    title: 13th Expedition
+    start: { calendar: new-ironhold, year: 43, era: ATA, month: secunda, day: 21, abs: 16610 }
     visibility: hidden
