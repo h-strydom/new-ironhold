@@ -11,3 +11,4 @@
 - { folder: "misc" }
 - { blob: "blob:sha256-f223ca7bf03bcb4062ed1487816c1c1fd8b8d51d49011bfd02d63cad75f54454", name: "5.5e_character_sheet.pdf", added: "2026-11-24T21:34:39Z", folder: "misc" }
 - { blob: "blob:sha256-4ae4071655bafed412cd9656308414bd0d0d8c0c907566994b0e2899c41665c8", name: "forest-brown-shaggy-scalycap.png", added: "2026-11-26T21:18:40Z", folder: "specimens" }
+- { blob: "blob:sha256-6bad37d8786a90b6369e9049afa571b2b15189f10a427fddee960460e5d1027d", name: "specimen-bismuth-shell-engraved-vivid.png", added: "2026-11-26T21:18:40Z", folder: "specimens" }
