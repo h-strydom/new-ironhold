@@ -15,7 +15,7 @@ Named stock 2024 Monster Manual entries, not stat blocks pasted in - confirm aga
 - [Gnoll](https://www.dndbeyond.com/monsters/16904-gnoll) - the base line and the bulk of any warband. Pack hunters; expect them in groups, not alone.
 - [Troll](https://www.dndbeyond.com/monsters/17040-troll) - the tribe's heavy-hitter. One per set-piece encounter, never a standard roadside fight - a troll showing up on a random encounter roll should read as a genuine "something is very wrong" moment, not routine.
 
-**If the party helps clear the goblins out of Bittering Hollow entirely** (the kill branch of Bittering Hollow), this is the tribe that moves into the vacated ground - the follow-up defend encounter flagged on that page and on Friends and Foes is a gnoll warband from this roster, not a new creature type.
+**If the party helps clear the goblins out of** [[Bittering Hollow]] **entirely** (the kill branch of [[Bittering Hollow]]), this is the tribe that moves into the vacated ground - the follow-up defend encounter flagged on that page and on Friends and Foes is a gnoll warband from this roster, not a new creature type.
 
 ### Warband composition by party size (level 3, per this session's party)
 
