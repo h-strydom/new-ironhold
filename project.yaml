@@ -11,3 +11,6 @@ today:
     day: 21,
     abs: 16610
   }
+snippets:
+  - name: gilda
+    text: ₲
