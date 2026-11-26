@@ -4,7 +4,7 @@ title: Othamar
 visibility: hidden
 ---
 
-A trading company built on old-world engineers and machinists. Othamar wants raw material, machinery and salvage: anything they can study and turn into something that works.
+A trading company built on old-world engineers and machinists. [[id:01M853MVD379TMRPMHNTN5DHQW|Othamar]] wants raw material, machinery and salvage: anything they can study and turn into something that works.
 
 Work that clears the way for building. Hauling ore, levelling ground, recovering machinery or components intact. Othamar pays less for the same object in pieces.
 
