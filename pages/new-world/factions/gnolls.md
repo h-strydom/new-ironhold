@@ -10,7 +10,7 @@ They are the more aggressive, better-established threat of the two tribes - bett
 
 ## Creature roster
 
-Named stock 2024 Monster Manual entries, not stat blocks pasted in - confirm against your own book, same caveat as [[Mill Site]] and [Goblins](/a/cmvnyw40908y93hne5ik09b58/moa7t5y7).
+Named stock 2024 Monster Manual entries, not stat blocks pasted in - confirm against your own book, same caveat as [[Mill Site]] and Goblins.
 
 - [Gnoll](https://www.dndbeyond.com/monsters/16904-gnoll) - the base line and the bulk of any warband. Pack hunters; expect them in groups, not alone.
 - [Troll](https://www.dndbeyond.com/monsters/17040-troll) - the tribe's heavy-hitter. One per set-piece encounter, never a standard roadside fight - a troll showing up on a random encounter roll should read as a genuine "something is very wrong" moment, not routine.
