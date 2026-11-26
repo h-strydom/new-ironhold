@@ -15,6 +15,7 @@ visibility: hidden
 :::
 
 :::cell
+![forest-brown-shaggy-scalycap](blob:sha256-4ae4071655bafed412cd9656308414bd0d0d8c0c907566994b0e2899c41665c8)
 :::
 
 :::cell
