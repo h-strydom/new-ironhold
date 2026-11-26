@@ -30,9 +30,8 @@ moons:
     known: { phase: Full, date: { era: ATA, year: 0, month: prima, day: 1 } }
     phases:
       - { name: Full, look: full, days: 1 }
-      - { name: Waning gibbous, look: waning-gibbous, days: 16 }
-      - { name: New, look: new, days: 1 }
-      - { name: Waxing gibbous, look: waxing-gibbous, days: 17 }
+      - { name: Waning gibbous, look: waning-gibbous, days: 7 }
+      - { name: Dark, look: none, days: 27 }
   - name: Valora
     seed: banked
     color: "#b4472f"
