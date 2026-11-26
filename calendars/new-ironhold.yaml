@@ -45,9 +45,9 @@ moons:
         - { on: { month: undecima, day: 33 } }
     phases:
       - { name: Full, look: full, days: 1 }
-      - { name: Waning, look: waning-gibbous, days: 37..47 }
-      - { name: Dark, look: new, days: 37..47 }
-      - { name: Waxing, look: waxing-gibbous, days: 37..47 }
+      - { name: Waning, look: none, days: 37..47 }
+      - { name: Dark, look: none, days: 37..47 }
+      - { name: Waxing, look: none, days: 37..47 }
   - name: Umbriel
     color: "#7d4f8f"
     known: { phase: Full, date: { era: ATA, year: 0, month: prima, day: 33 } }
