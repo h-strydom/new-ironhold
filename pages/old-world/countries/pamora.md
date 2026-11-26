@@ -20,3 +20,6 @@ Pamora buys Ashvale reagents through intermediaries. A country that counts the y
 :::secret
 - A bargain with a Pamoran has to exist on paper. Anything agreed aloud holds no weight with them.
 :::
+
+:::secret
+:::
