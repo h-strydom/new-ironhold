@@ -4,7 +4,7 @@ title: Goblins
 visibility: hidden
 ---
 
-A goblin band that held ground further west until the gnolls arrived. Losing that fight, they've been pushed east, off their own territory and onto the herb clearing at Bittering Hollow - which is why a band is camped there right now, fouling the stand Threnval wants cleared.
+A goblin band that held ground further west until the gnolls arrived. Losing that fight, they've been pushed east, off their own territory and onto the herb clearing at [[Bittering Hollow]] - which is why a band is camped there right now, fouling the stand Threnval wants cleared.
 
 They are the weaker, nearer, more negotiable side of this conflict. They don't want New Ironhold as an enemy - they want somewhere the gnolls aren't, and they're willing to trade labour for it: help building the town, or help working its farms, in exchange for being left alone. That's the whole premise of Friends and Foes, the quest that opens if a party chooses not to wipe them out at Bittering Hollow.
 
