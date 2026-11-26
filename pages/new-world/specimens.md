@@ -4,6 +4,26 @@ title: Specimens
 visibility: hidden
 ---
 
-| | | |
-| - | - | - |
-| | | |
+:::::table
+::::row
+:::cell
+:::
+
+:::cell
+:::
+
+:::cell
+:::
+::::
+
+::::row
+:::cell
+:::
+
+:::cell
+:::
+
+:::cell
+:::
+::::
+:::::
