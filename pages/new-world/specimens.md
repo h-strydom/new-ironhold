@@ -4,7 +4,7 @@ title: Specimens
 visibility: hidden
 ---
 
-::::::table
+::::::table{columns}
 :::::row
 ::::cell
 Yellow Fellow
