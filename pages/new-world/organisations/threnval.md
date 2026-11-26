@@ -4,7 +4,7 @@ title: Threnval
 visibility: hidden
 ---
 
-A trading company built on old-world magecraft and alchemy. Its trade runs almost entirely on reagents out of Ashvale. Threnval wants rare herbs, monster components and anything else the wilderness yields that an alchemist can turn into something to sell.
+A trading company built on old-world magecraft and alchemy. Its trade runs almost entirely on reagents out of [[Ashvale]]. Threnval wants rare herbs, monster components and anything else the wilderness yields that an alchemist can turn into something to sell.
 
 Work that clears the way for gathering. Driving off whatever is fouling a good stand of herbs, recovering reagents from a kill instead of hacking it apart, escorting a forager somewhere too dangerous to reach alone.
 
