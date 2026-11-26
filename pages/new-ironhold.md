@@ -33,7 +33,7 @@ Gold means nothing here. What you're paid in is [[Currency|Gilda]], marks the ex
 
 Ships sail only in [[Solenne|Solenne's]] week, when the Silver Sister's light keeps the seas calm enough to cross. Anything you need from the mainland that the new continent can't yet provide, you send for on the ship out. That includes you, if it comes to that.
 
-:gil
+₲
 
 ## Before you go
 
