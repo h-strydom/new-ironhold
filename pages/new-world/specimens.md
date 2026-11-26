@@ -11,20 +11,17 @@ visibility: hidden
 :::
 
 :::cell
-![yellow-berserker](blob:sha256-a6036b16a10d60f52a56285948f73fcdb9b78f34e64e2a1881d91b00fe5dfec2)
 :::
 
 :::cell
 :::
 
 :::cell
-![forest-brown-shaggy-scalycap](blob:sha256-4ae4071655bafed412cd9656308414bd0d0d8c0c907566994b0e2899c41665c8)
 :::
 ::::
 
 ::::row
 :::cell
-![specimen-bismuth-shell-engraved-vivid](blob:sha256-6bad37d8786a90b6369e9049afa571b2b15189f10a427fddee960460e5d1027d)
 :::
 
 :::cell
