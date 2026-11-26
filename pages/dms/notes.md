@@ -6,5 +6,3 @@ order: 20
 ---
 
 ## Ideas
-
-### The Two Courts
