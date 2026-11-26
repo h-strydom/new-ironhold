@@ -38,7 +38,7 @@ On top of that you have **150 GP-equivalent**, what your character earned advent
 
 ## Landing stipend
 
-On arrival, before your first quest, every character also receives one month of rations and [Currency](/a/cmt21jyb000033zod4t3x92rk/jmc0vj0n).
+On arrival, before your first quest, every character also receives one month of rations and [[Currency]].
 
 ## Submit your character
 
