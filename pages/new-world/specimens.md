@@ -24,7 +24,6 @@ visibility: hidden
 
 ::::row
 :::cell
-/
 :::
 
 :::cell
