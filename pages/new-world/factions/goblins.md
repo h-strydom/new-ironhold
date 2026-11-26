@@ -6,9 +6,9 @@ visibility: hidden
 
 A goblin band that held ground further west until the gnolls arrived. Losing that fight, they've been pushed east, off their own territory and onto the herb clearing at [[Bittering Hollow]] - which is why a band is camped there right now, fouling the stand Threnval wants cleared.
 
-They are the weaker, nearer, more negotiable side of this conflict. They don't want New Ironhold as an enemy - they want somewhere the gnolls aren't, and they're willing to trade labour for it: help building the town, or help working its farms, in exchange for being left alone. That's the whole premise of Friends and Foes, the quest that opens if a party chooses not to wipe them out at Bittering Hollow.
+They are the weaker, nearer, more negotiable side of this conflict. They don't want New Ironhold as an enemy - they want somewhere the gnolls aren't, and they're willing to trade labour for it: help building the town, or help working its farms, in exchange for being left alone. That's the whole premise of Friends and Foes, the quest that opens if a party chooses not to wipe them out at [[Bittering Hollow]].
 
-Per Bittering Hollow's existing secret: **crude and improvised weapons only** on this band. Metal-armed goblins are a deliberately later escalation signal and shouldn't be spent here.
+Per [[Bittering Hollow]]'s existing secret: **crude and improvised weapons only** on this band. Metal-armed goblins are a deliberately later escalation signal and shouldn't be spent here.
 
 **The band's Hobgoblin doubles as its negotiator.** He speaks Common, badly - broken enough to be slow and a little comic, never mocking - and he's the one who opens Friends and Foes if a party tries to talk instead of fight. If a player character speaks Goblin, the broken-Common routine is skipped entirely and the conversation runs normally. Don't create a second, separately-named NPC for this - it's the same Hobgoblin as the warband roster below.
 
