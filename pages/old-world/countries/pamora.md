@@ -22,7 +22,7 @@ Pamora buys Ashvale reagents through intermediaries. A country that counts the y
 :::
 
 :::secret
-Main exports:
+Exports:
 
 - Chocolates
 - Coffee
