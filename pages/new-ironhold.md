@@ -38,3 +38,5 @@ Ships sail only in [[Solenne|Solenne's]] week, when the Silver Sister's light ke
 Read up on [[Character Creation]] before your first session.
 
 **The wilderness doesn't care how the crossing went, or how far you came to get here. Not everyone who walks out past the wall walks back.**
+
+**/**
