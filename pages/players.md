@@ -6,5 +6,5 @@ order: 80
 ---
 
 :::info
-If you are about to play for the first time, read [[Character Creation]] and [Scheduling a Session](/a/cmt21jyb000033zod4t3x92rk/miyv362t). Nobody books the session for you.
+If you are about to play for the first time, read [[Character Creation]] and [[Scheduling a Session]]. Nobody books the session for you.
 :::
