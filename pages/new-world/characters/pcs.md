@@ -16,6 +16,7 @@ Character
 :::
 
 :::cell{header}
+Class
 :::
 ::::
 
