@@ -5,7 +5,7 @@ visibility: hidden
 order: 40
 ---
 
-Dorne Aldwick runs [[The Last Berth]] with [[Liora Aldwick]] and has never been heard to speaking.
+Dorne Aldwick runs [[The Last Berth]] with [[Liora Aldwick]] and has never been heard speaking.
 
 - **Goliath**, seven foot ten, wide with it and slower than he was.
 - **Grey hide** the colour of river stone, with raised patterning across the shoulders and forearms that catches the lamplight when he shifts.
