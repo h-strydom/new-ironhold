@@ -12,6 +12,7 @@ Player
 :::
 
 :::cell{header}
+Character
 :::
 ::::
 
