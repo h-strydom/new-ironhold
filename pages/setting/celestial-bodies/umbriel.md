@@ -26,4 +26,4 @@ Nothing is scheduled on [[New Ironhold]] for the 33rd. No caravan leaves, no sur
 
 ## The night she is not alone
 
-Once a year Valora is full on the same night: the Sister's Scourge.
+Once a year [[Valora]] is full on the same night: the Sister's Scourge.
