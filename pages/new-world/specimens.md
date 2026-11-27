@@ -4,7 +4,7 @@ title: Specimens
 visibility: hidden
 ---
 
-:::::table{widths="13%,77%,10%"}
+:::::table{widths="81%,9%,10%"}
 ::::row
 :::cell
 ![yellow-chanterelle](blob:sha256-459bc7e49bb4c14ffe74f1dfb5fd6eba1008b21cd9ac30884ec6855f9884fe2f)
