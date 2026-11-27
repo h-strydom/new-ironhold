@@ -27,7 +27,7 @@ visibility: hidden
 :::
 
 :::cell{align="center" valign="middle"}
-Shit's Shroom
+Shit's Shroo
 :::
 ::::
 
