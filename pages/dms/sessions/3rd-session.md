@@ -7,7 +7,7 @@ order: 10
 
 ## #3 2026-11-18
 
-32 to 33 Secunda 43 ATA
+**32 to 33 Secunda 43 ATA**
 
 **Players:** [[Bhelmus Goldbech]], [[Henry von Arnim]], [[Eldrin]], [[Anthea]], [[Kai Jiang]], [[Silas Vey]]
 
