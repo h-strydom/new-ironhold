@@ -17,17 +17,17 @@ They are not equals, and nobody pretends otherwise. [[Solenne]] is the eldest an
 | [[Valora]] | The Crimson Sister, the Blood Moon | Three or four times a year, never on schedule |
 | [[Umbriel]] | The Dark Sister, the Veil | The 33rd, every month |
 
-[[Solenne]] is large, bright and perfectly circular, and her cycle *is* the month: thirty-five days, no drift, full on the first. [[Valora]] is mid-sized and rust-red with an unsteady aura, and her orbit wanders far enough that astrologers sell windows rather than dates. Umbriel is small and livid, the colour of a bruise a few days into healing, hardly worth looking for on most nights, and reliably visible only when full.
+[[Solenne]] is large, bright and perfectly circular, and her cycle *is* the month: thirty-five days, no drift, full on the first. [[Valora]] is mid-sized and rust-red with an unsteady aura, and her orbit wanders far enough that astrologers sell windows rather than dates. [[Umbriel]] is small and livid, the colour of a bruise a few days into healing, hardly worth looking for on most nights, and reliably visible only when full.
 
 ## Reading the sky
 
-Any settlement of size keeps an almanac, and any almanac worth its vellum prints the same three columns. [[Solenne|Solenne's]] dates are the calendar itself, the days on which work is done. Umbriel's are the nights it is not, and they are set in heavier ink. [[Valora]] gets no dates at all, only a Crimson Window, which is a guess with a reputation attached: mainland astrologers stake careers on narrowing it, and the good ones get within three days.
+Any settlement of size keeps an almanac, and any almanac worth its vellum prints the same three columns. [[Solenne|Solenne's]] dates are the calendar itself, the days on which work is done. [[Umbriel|Umbriel's]] are the nights it is not, and they are set in heavier ink. [[Valora]] gets no dates at all, only a Crimson Window, which is a guess with a reputation attached: mainland astrologers stake careers on narrowing it, and the good ones get within three days.
 
-No almanac charts Umbriel's phases between one full moon and the next. Nobody has ever managed it, and the ones who tried hardest are not consulted.
+No almanac charts [[Umbriel|Umbriel's]] phases between one full moon and the next. Nobody has ever managed it, and the ones who tried hardest are not consulted.
 
 ## What the sisters bring
 
-[[Solenne|Solenne's]] full night is [Solenne](/a/cmt21jyb000033zod4t3x92rk/xwcy6c08), the one night of the month nobody dreads. Umbriel's is [Umbriel](/a/cmt21jyb000033zod4t3x92rk/am4xsyhf), and the doors stay barred from dusk. [[Valora]] keeps no night anyone can plan for, except one: once a year she goes full beside Umbriel, and that night is the [Sister's Scourge](/a/cmt21jyb000033zod4t3x92rk/myd2z1bv).
+[[Solenne|Solenne's]] full night is [Solenne](/a/cmt21jyb000033zod4t3x92rk/xwcy6c08), the one night of the month nobody dreads. [[Umbriel|Umbriel's]] is [Umbriel](/a/cmt21jyb000033zod4t3x92rk/am4xsyhf), and the doors stay barred from dusk. [[Valora]] keeps no night anyone can plan for, except one: once a year she goes full beside [[Umbriel]], and that night is the [Sister's Scourge](/a/cmt21jyb000033zod4t3x92rk/myd2z1bv).
 
 ## The shape of a month
 
