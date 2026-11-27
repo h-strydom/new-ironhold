@@ -14,4 +14,4 @@ Towns go silent. Torches are doused and watches doubled, and everyone waits behi
 
 ## Preparation Week
 
-Preparation Week is the sixth week of Undecima, the 26th to the 30th. Windows are boarded, livestock hauled in, food stockpiled and threshold stones blessed. Trade halts across the mainland and does not resume until the new year. Nothing else in the year comes as close to being a season of its own.
+Preparation Week is the sixth week of Undecima, the 26th to the 32th. Windows are boarded, livestock hauled in, food stockpiled and threshold stones blessed. Trade halts across the mainland and does not resume until the new year. Nothing else in the year comes as close to being a season of its own.
