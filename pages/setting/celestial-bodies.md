@@ -31,7 +31,7 @@ No almanac charts [[Umbriel|Umbriel's]] phases between one full moon and the nex
 
 ## The shape of a month
 
-A month opens on the Bright Shift and all but ends on the Veil. The heavy work and the shipping fall in the first five days, under [Solenne](/a/cmt21jyb000033zod4t3x92rk/xwcy6c08). The 33rd is shut, and the two days after it are for putting right whatever the shutting interrupted. Then it starts again.
+A month opens on the Bright Shift and all but ends on the Veil. The heavy work and the shipping fall in the first five days, under [[Solenne]]. The 33rd is shut, and the two days after it are for putting right whatever the shutting interrupted. Then it starts again.
 
 ## The shape of a year
 
