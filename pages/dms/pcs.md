@@ -30,7 +30,7 @@ DeVilliers Meiring
 :::
 
 :::cell
-Bhelmus Goldbech
+[[Bhelmus Goldbech]]
 :::
 
 :::cell
