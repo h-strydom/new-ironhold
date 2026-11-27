@@ -4,6 +4,7 @@ lanes:
   - { id: old-world, title: Old World }
   - { id: new-world, title: New World }
   - { id: valora, title: Valora, color: "#b4472f" }
+  - { id: solenne, title: Solenne, color: "#dfe3ea" }
 events:
   - id: ed563517dfa
     lane: old-world
@@ -42,4 +43,11 @@ events:
     start: { calendar: new-ironhold, year: 0, era: ATA, month: undecima, day: 31, abs: 380 }
     end: { calendar: new-ironhold, year: 0, era: ATA, month: undecima, day: 35, abs: 384 }
     repeat: { every: year }
+    visibility: hidden
+  - id: e551653af8e
+    lane: solenne
+    title: Solenne's blessing
+    start: { calendar: new-ironhold, year: 0, era: ATA, month: prima, day: 1, abs: 0 }
+    end: { calendar: new-ironhold, year: 0, era: ATA, month: prima, day: 5, abs: 4 }
+    repeat: { every: month }
     visibility: hidden
