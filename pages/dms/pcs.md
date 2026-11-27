@@ -160,9 +160,11 @@ Zoric
 :::
 
 :::cell
+Human
 :::
 
 :::cell
+Cleric
 :::
 ::::
 :::::
