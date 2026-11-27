@@ -22,9 +22,6 @@ Race
 :::cell{header}
 Class
 :::
-
-:::cell{header}
-:::
 ::::
 
 ::::row
@@ -42,9 +39,6 @@ Dwarf
 
 :::cell
 Wizard
-:::
-
-:::cell
 :::
 ::::
 
@@ -64,9 +58,6 @@ Human
 :::cell
 Fighter
 :::
-
-:::cell
-:::
 ::::
 
 ::::row
@@ -84,9 +75,6 @@ Autognome
 
 :::cell
 Fighter
-:::
-
-:::cell
 :::
 ::::
 
@@ -106,9 +94,6 @@ Human
 :::cell
 Paladin
 :::
-
-:::cell
-:::
 ::::
 
 ::::row
@@ -126,9 +111,6 @@ Elf
 
 :::cell
 Cleric
-:::
-
-:::cell
 :::
 ::::
 
@@ -148,9 +130,6 @@ Elf
 :::cell
 Druid
 :::
-
-:::cell
-:::
 ::::
 
 ::::row
@@ -169,9 +148,6 @@ Human
 :::cell
 Cleric
 :::
-
-:::cell
-:::
 ::::
 
 ::::row
@@ -189,9 +165,6 @@ Human
 
 :::cell
 Monk
-:::
-
-:::cell
 :::
 ::::
 :::::
