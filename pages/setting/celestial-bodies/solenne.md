@@ -8,8 +8,6 @@ The Sovereign. The First Sister. Eldest of the three, and the steadiest thing in
 
 Solenne is a silver disc, large, bright and perfectly round. Her cycle is thirty-five days and it does not drift by so much as an hour. Her full moon falls on the first day of every month, and always has. The month is not a span of time that happens to suit her. The month is her.
 
-## Why she is trusted
-
 Everything else is measured against her because nothing else can be. Sailors set courses by her. Harvests are timed to her. Where her sisters are read as temperament, Solenne is read as law.
 
 ## The Bright Shift
