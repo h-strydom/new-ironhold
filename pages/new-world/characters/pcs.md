@@ -38,6 +38,7 @@ Dwarf
 :::
 
 :::cell
+Wizard
 :::
 ::::
 :::::
