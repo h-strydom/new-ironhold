@@ -52,6 +52,7 @@ Henry von Arnim
 :::
 
 :::cell
+Human
 :::
 
 :::cell
