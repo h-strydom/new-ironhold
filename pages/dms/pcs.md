@@ -134,7 +134,7 @@ Cleric
 
 ::::row
 :::cell
-Tobias
+Tobias Bester
 :::
 
 :::cell
