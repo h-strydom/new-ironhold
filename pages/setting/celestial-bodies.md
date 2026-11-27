@@ -27,7 +27,7 @@ No almanac charts [[Umbriel|Umbriel's]] phases between one full moon and the nex
 
 ## What the sisters bring
 
-[[Solenne|Solenne's]] full night is the one night of the month nobody dreads. [[Umbriel|Umbriel's]] is and the doors stay barred from dusk. [[Valora]] keeps no night anyone can plan for, except one: once a year she goes full beside [[Umbriel]], and that night is the [[Sister's Scourge]].
+[[Solenne|Solenne's]] full night is the one night of the month nobody dreads. [[Umbriel|Umbriel's]] is the nightand the doors stay barred from dusk. [[Valora]] keeps no night anyone can plan for, except one: once a year she goes full beside [[Umbriel]], and that night is the [[Sister's Scourge]].
 
 ## The shape of a month
 
