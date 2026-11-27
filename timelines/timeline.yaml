@@ -22,3 +22,10 @@ events:
     end: { calendar: new-ironhold, year: 0, era: ATA, month: tertia, day: 24, abs: 93 }
     repeat: { every: year }
     visibility: hidden
+  - id: e924a36f678
+    lane: valora
+    title: Valora full
+    start: { calendar: new-ironhold, year: 0, era: ATA, month: sexta, day: 15, abs: 189 }
+    end: { calendar: new-ironhold, year: 0, era: ATA, month: sexta, day: 19, abs: 193 }
+    repeat: { every: year }
+    visibility: hidden
