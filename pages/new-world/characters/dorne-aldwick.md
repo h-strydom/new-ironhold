@@ -15,6 +15,6 @@ Dorne Aldwick runs [[The Last Berth]] with [[Liora Aldwick]] and has never been 
 
 He sits behind the bar and moves without hurrying, careful of the space he fills. When a group comes in he sets a cup down in front of the first of them and the right number beside it.
 
-Grunts and gestures cover everything he needs to say, and the whole town has learned to read them rather than the other way round, so nobody in [[New Ironhold]] treats the silence as a gap. Whoever talks to him is listened to until they have finished.
+Grunts and gestures cover everything he needs to say, and the whole town has learned to read them rather than the other way round, so nobody in [[New Ironhold]] treats the silence as a gap. Whoever talks to him is listened to.
 
 He hauled cargo on the mainland and married [[Liora Aldwick|Liora]] there. He crossed on an early expedition and stayed once he saw what the harbour could become with an inn on it. The two of them take no side. It is bad for business, and worse for the marriage, since they do not always agree on it either. He wants the inn still standing when he is no longer the one running it.
