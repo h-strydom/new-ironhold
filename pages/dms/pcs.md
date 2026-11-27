@@ -116,7 +116,7 @@ Druid
 
 ::::row
 :::cell
-Jeandre
+Jeandre Botha
 :::
 
 :::cell
