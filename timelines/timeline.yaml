@@ -6,6 +6,7 @@ lanes:
   - { id: valora, title: Valora, color: "#b4472f" }
   - { id: solenne, title: Solenne, color: "#dfe3ea" }
   - { id: festivals, title: Festivals }
+  - { id: umbriel, title: Umbriel, color: "#c9667f" }
 events:
   - id: ed563517dfa
     lane: old-world
@@ -58,3 +59,10 @@ events:
     start: { calendar: new-ironhold, year: 0, era: ATA, month: undecima, day: 33, abs: 382 }
     repeat: { every: year }
     visibility: public
+  - id: e00a4ef9319
+    lane: umbriel
+    title: Veil Recovery
+    start: { calendar: new-ironhold, year: 43, era: ATA, month: secunda, day: 34, abs: 16623 }
+    end: { calendar: new-ironhold, year: 43, era: ATA, month: secunda, day: 35, abs: 16624 }
+    repeat: { every: month }
+    visibility: hidden
