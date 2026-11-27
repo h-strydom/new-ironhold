@@ -26,7 +26,7 @@ Race
 
 ::::row
 :::cell
-Henni
+Hen
 :::
 
 :::cell
