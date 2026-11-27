@@ -26,7 +26,7 @@ They "adopted" 2 goblins (Steven Stephan) and a hobgoblin (Steve).
 
 Steve told them that their shaman (female) knows where to find more herbs. The goblins are now formally employed in [[New Ironhold]].
 
-[[Anthea]]
+[[Anthea]] has a tendency to collect. She found
 
 None of the herbs were saved. Quest handed in with [[Ysolde Marrow|Ysolde]],
 
