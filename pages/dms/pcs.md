@@ -48,7 +48,7 @@ Francois Combrinck
 :::
 
 :::cell
-Henry von Arnim
+[[Henry von Arnim]]
 :::
 
 :::cell
