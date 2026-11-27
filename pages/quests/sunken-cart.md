@@ -1,7 +1,7 @@
 ---
 id: 01M858004SEBJ9X0VXCTX8QZ9P
 title: Sunken Cart
-visibility: hidden
+visibility: public
 order: 40
 ---
 
