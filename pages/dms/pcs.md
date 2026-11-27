@@ -152,6 +152,7 @@ Monk
 
 ::::row
 :::cell
+L
 :::
 
 :::cell
