@@ -1,7 +1,7 @@
 ---
 id: 01M8551ZEYXH3X12AM2H54HW3A
 title: Sister's Scourge
-visibility: hidden
+visibility: public
 ---
 
 Once a year, on Undecima 33rd, [[Umbriel]] and [[Valora]] reach full phase on the same night, and the year turns two days later. Its other name is the Bloody Veil.
