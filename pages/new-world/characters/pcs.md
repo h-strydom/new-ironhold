@@ -30,7 +30,7 @@ DeVilliers Meiring
 :::
 
 :::cell
-Bhelmus
+Bhelmus Goldbe
 :::
 
 :::cell
