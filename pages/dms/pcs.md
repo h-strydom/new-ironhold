@@ -152,7 +152,7 @@ Monk
 
 ::::row
 :::cell
-Lle
+Llewe
 :::
 
 :::cell
