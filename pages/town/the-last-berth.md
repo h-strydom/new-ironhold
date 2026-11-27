@@ -1,7 +1,7 @@
 ---
 id: 01M853SCP9DSZT2JD8G1TV4V6W
 title: The Last Berth
-visibility: hidden
+visibility: public
 ---
 
 [[New Ironhold|New Ironhold's]] inn, and the only building in town that everybody passes. Run by [[Dorne Aldwick]] and [[Liora Aldwick]].
