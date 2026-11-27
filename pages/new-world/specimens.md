@@ -68,7 +68,6 @@ Shit's Shroom
 
 ::::row
 :::cell
-![specimen-bismuth-shell-engraved-vivid](blob:sha256-6bad37d8786a90b6369e9049afa571b2b15189f10a427fddee960460e5d1027d)
 :::
 
 :::cell
