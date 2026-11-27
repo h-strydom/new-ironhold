@@ -15,7 +15,6 @@ visibility: hidden
 :::
 
 :::cell
-/ima
 :::
 ::::
 
