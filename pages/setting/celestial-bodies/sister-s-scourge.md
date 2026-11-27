@@ -4,7 +4,7 @@ title: Sister's Scourge
 visibility: hidden
 ---
 
-Once a year, on Undecima 33rd, [[Umbriel]] and [Valora](/a/cmt21jyb000033zod4t3x92rk/nsr5t74l) reach full phase on the same night, and the year turns two days later. Its other name is the Bloody Veil.
+Once a year, on Undecima 33rd, [[Umbriel]] and [[Valora]] reach full phase on the same night, and the year turns two days later. Its other name is the Bloody Veil.
 
 Umbriel is full on the 33rd of every month, so her half of the night is fixed. Valora's half is not, and her arrival on that exact night is either the great coincidence of the calendar or evidence that the calendar was arranged around it. Astrologers have argued both readings and settled neither.
 
