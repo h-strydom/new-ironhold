@@ -13,11 +13,6 @@ First experience with the Veil in [[New Ironhold]]. Session was a bit of a stall
 
 Effectively [[Eldrin]], [[Anthea]] and Silas fought the darkness, Henry almost died, and Kai and Bhelmus hid in [[The Last Berth]].
 
-Had their first Veil, Anthea, Balmas, both francois, tobi, jeandre. Hennie/Jaco couldn't make.\
-Bit of a slow session, most of it was social and infighting, ended with Henry almost dying to the shadow monsters.
-
-Kai and Balmas hid in The Last Berth. Henry went ons his own.
-
 ## #2 2026-10-14
 
 **Players:** [[Henry von Arnim]], [[Eldrin]], [[Anthea]], [[Kai Jiang]], [[Voidshot Prime]]
