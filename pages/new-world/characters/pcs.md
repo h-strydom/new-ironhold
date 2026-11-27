@@ -44,6 +44,7 @@ Wizard
 
 ::::row
 :::cell
+H
 :::
 
 :::cell
