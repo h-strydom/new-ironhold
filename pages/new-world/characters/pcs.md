@@ -74,6 +74,7 @@ Autognome
 :::
 
 :::cell
+Fighter
 :::
 ::::
 :::::
