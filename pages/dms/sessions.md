@@ -28,7 +28,7 @@ Steve told them that their shaman (female) knows where to find more herbs. The g
 
 [[Anthea]] has a tendency to collect. She found 3 mushrooms 2 yellow 1 brown as well as a bizmuth styled shell.
 
-None of the herbs were saved. Quest handed in with [[Ysolde Marrow|Ysolde]], she gave them the full quest amount. She borrowed 1 of each mushroom from [[Ysolde Marrow|Ysolde]]
+None of the herbs were saved. Quest handed in with [[Ysolde Marrow|Ysolde]], she gave them the full quest amount. She borrowed 1 of each mushroom to [[Ysolde Marrow|Ysolde]]
 
 Took them 5 days to get to the goblins, made a semi truce with them and fought off gnolls, hobgoblin (steve) and 2 goblins (steven stephan) survived. No herbs rescued.
 
