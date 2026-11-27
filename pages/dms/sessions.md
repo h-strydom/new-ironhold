@@ -24,6 +24,8 @@ It took the players 5 days to get to the clearing where the goblins were. They e
 
 They "adopted" 2 goblins (Steven Stephan) and a hobgoblin (Steve).
 
+Steve told them that
+
 Took them 5 days to get to the goblins, made a semi truce with them and fought off gnolls, hobgoblin (steve) and 2 goblins (steven stephan) survived. No herbs rescued.
 
 Steve says they have a female shaman somewhere that knows where to find more herbs. Goblins now work in new ironhold
