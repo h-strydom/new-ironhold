@@ -5,6 +5,6 @@ visibility: hidden
 order: 10
 ---
 
-| Person |
+| Player |
 | - |
 | |
