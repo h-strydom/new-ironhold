@@ -26,7 +26,7 @@ Any method legal under the 2024 rules:
 
 ## Starting equipment
 
-You do **not** get your class's normal starting equipment, for reasons the [FAQ](/a/cmt21jyb000033zod4t3x92rk/tdpw2ikx) sets out.
+You do **not** get your class's normal starting equipment, for reasons the [[FAQ]] sets out.
 
 Free, and not counted against your budget:
 
