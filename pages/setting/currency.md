@@ -21,7 +21,7 @@ Gilda does not replace what you find in the wild. A blade recovered from a ruin 
 
 ## What a job pays
 
-Most posted work pays 10,000₲ to 20,000₲ per party, split however you like, scaling with how dangerous the job is.
+Work pays , split however you like, scaling with how dangerous the job is.
 
 ## Prices are not what you would expect
 
