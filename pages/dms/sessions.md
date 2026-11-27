@@ -16,8 +16,6 @@ Kai and Balmas hid in The Last Berth. Henry went ons his own.
 
 **Players:** [[Henry von Arnim]], [[Eldrin]], [[Anthea]], [[Kai Jiang]], [[Voidshot Prime]]
 
-Same party as session 1 minus balmas. Character passed out drunk and was dragged back into town
-
 Took them 5 days to get to the goblins, made a semi truce with them and fought off gnolls, hobgoblin (steve) and 2 goblins (steven stephan) survived. No herbs rescued.
 
 Steve says they have a female shaman somewhere that knows where to find more herbs. Goblins now work in new ironhold
