@@ -23,7 +23,7 @@ Your character knows what they would know. Ask what they can see, what they reco
 
 A party that keeps good notes will find things a careless one walks straight past.
 
-## [Quests](/a/cmt21jyb000033zod4t3x92rk/nj5mzdvg)
+## [[Quests]]
 
 Work somebody is willing to pay for, posted at the Pioneer's tent. You are never required to take it. Taking work from the Pioneer or from either trading company does not bind you to whoever posted it, and you can move between them from one session to the next.
 
