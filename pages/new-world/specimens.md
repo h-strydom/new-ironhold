@@ -24,6 +24,7 @@ visibility: hidden
 :::
 
 :::cell{align="center" valign="middle"}
+Yellow Fellow
 :::
 
 :::cell{align="center" valign="middle"}
