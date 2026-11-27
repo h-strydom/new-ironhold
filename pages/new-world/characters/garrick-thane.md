@@ -16,4 +16,4 @@ He will fit a hinge to somebody else's shutter, unasked and unpaid, and finish i
 
 He is quick and blunt, and he will not haggle over anything but the work itself. He does not want to hear what somebody thinks a find is worth. He wants to hear what it does, and then he names the price himself. Where a clever fix will solve a problem, he takes it over a favour every time and expects the people he deals with to do the same. Anyone who wastes his time is shown the answer once and left to it.
 
-He came up through the company's workshops on the mainland and volunteered for the posting. What an unmapped continent's raw material could do in a forge interested him more than anything left for him to build at home. He wants to build something here that outlasts the expedition.
+He came up through the company's workshops on the mainland and volunteered for the posting. What an unmapped continent's raw material could do in a forge interested him more than anything left for him to build at home.
