@@ -44,10 +44,4 @@ Arrived on the morning of 21 Secunda, spent the day at [[The Last Berth]]. [[Hen
 
 Met [[Corin Bregard]], picked up the Goblin quest. Session ended with them signing out at the gate. [[Anthea]] wanted to know who signed out before them ([[12th|12th Expeditions]])
 
-Players arrived the morning of day 1, spend the day at the last berth. Henry offended rosemary and bought the free map for most of his money
-
-They met corin, picked the goblin quest. Session ended with them sighning out at the gate.
-
-Anthea checked the book for previous expeditions
-
 ##
