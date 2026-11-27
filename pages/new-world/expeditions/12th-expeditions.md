@@ -2,7 +2,7 @@
 id: 01M851C2JBBC7T1VH17FGWQ7DK
 title: 12th Expeditions
 visibility: public
-order: 20
+order: 10
 ---
 
 ## 12th Expedition
