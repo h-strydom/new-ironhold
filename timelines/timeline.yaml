@@ -59,3 +59,9 @@ events:
     end: { calendar: new-ironhold, year: 0, era: ATA, month: undecima, day: 33, abs: 382 }
     repeat: { every: year }
     visibility: public
+  - id: e16e8781e01
+    lane: festivals
+    title: Sister's Scourge
+    start: { calendar: new-ironhold, year: 0, era: ATA, month: undecima, day: 33, abs: 382 }
+    repeat: { every: year }
+    visibility: public
