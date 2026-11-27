@@ -98,6 +98,7 @@ Paladin
 
 ::::row
 :::cell
+Kaylee Botha
 :::
 
 :::cell
