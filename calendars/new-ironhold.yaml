@@ -18,40 +18,22 @@ months:
 eras:
   - { abbr: BTA, name: Before the Treaty of Ashvale, direction: backward }
   - { abbr: ATA, name: After the Treaty of Ashvale, start_year: 0 }
-festivals:
-  - { name: Preparation Week, on: { month: undecima, day: 26 } }
-  - { name: Preparation Week, on: { month: undecima, day: 27 } }
-  - { name: Preparation Week, on: { month: undecima, day: 28 } }
-  - { name: Preparation Week, on: { month: undecima, day: 29 } }
-  - { name: Preparation Week, on: { month: undecima, day: 30 } }
 moons:
   - name: Solenne
     color: "#dfe3ea"
-    known: { phase: Full, date: { era: ATA, year: 0, month: prima, day: 1 } }
-    phases:
-      - { name: Full, look: full, days: 1 }
-      - { name: Waning gibbous, look: waning-gibbous, days: 7 }
-      - { name: Dark, look: none, days: 27 }
+    set:
+      - { phase: Full, every: month, on: 1 }
+      - { phase: Waning, look: waning-gibbous, every: month, on: 2, days: 4 }
   - name: Valora
-    seed: banked
     color: "#b4472f"
-    windows:
-      phase: Full
-      in:
-        - { from: { month: tertia, day: 12 }, to: { month: tertia, day: 32 } }
-        - { from: { month: sexta, day: 7 }, to: { month: sexta, day: 27 } }
-        - { from: { month: november, day: 1 }, to: { month: november, day: 21 } }
-        - { on: { month: undecima, day: 33 } }
-    phases:
-      - { name: Full, look: full, days: 1 }
-      - { name: Waning, look: none, days: 37..47 }
-      - { name: Dark, look: none, days: 37..47 }
-      - { name: Waxing, look: none, days: 37..47 }
+    set:
+      - { phase: Full, every: year, on: { month: tertia, day: 22 } }
+      - { phase: Full, every: year, on: { month: sexta, day: 17 } }
+      - { phase: Full, every: year, on: { month: november, day: 11 } }
+      - { phase: Full, every: year, on: { month: undecima, day: 33 } }
   - name: Umbriel
     color: "#7d4f8f"
-    known: { phase: Full, date: { era: ATA, year: 0, month: prima, day: 33 } }
-    phases:
-      - { name: Full, look: full, days: 1 }
-      - { name: Uncharted, look: none, days: 34 }
+    set:
+      - { phase: Full, every: month, on: 33 }
 conjunctions:
   - { name: Sister's Scourge, moons: [Valora, Umbriel], look: full }
