@@ -14,7 +14,7 @@ Kai and Balmas hid in The Last Berth. Henry went ons his own.
 
 ## #2 2026-10-14
 
-**Players:** [[Bhelmus Goldbech]], [[Henry von Arnim]], [[Eldrin]], [[Anthea]], [[Kai Jiang]], [[Voidshot Prime]]
+**Players:** [[Henry von Arnim]], [[Eldrin]], [[Anthea]], [[Kai Jiang]], [[Voidshot Prime]]
 
 Same party as session 1 minus balmas. Character passed out drunk and was dragged back into town
 
