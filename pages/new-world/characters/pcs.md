@@ -26,6 +26,7 @@ Race
 
 ::::row
 :::cell
+DeVil
 :::
 
 :::cell
