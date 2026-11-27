@@ -98,7 +98,7 @@ Paladin
 
 ::::row
 :::cell
-Jeandr Botha
+Jeandr**é** Botha
 :::
 
 :::cell
