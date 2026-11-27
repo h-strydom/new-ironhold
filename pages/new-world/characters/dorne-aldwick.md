@@ -17,4 +17,4 @@ He sits behind the bar and moves without hurrying, careful of the space he fills
 
 Grunts and gestures cover everything he needs to say, and the whole town has learned to read them rather than the other way round, so nobody in [[New Ironhold]] treats the silence as a gap.
 
-He hauled cargo on the mainland and married [[Liora Aldwick|Liora]] there. He crossed on an early expedition and stayed once he saw what the harbour could become with an inn on it. The two of them take no side. It is bad for business, and worse for the marriage, since they do not always agree on it either. He wants the inn still standing when he is no longer the one running it.
+He hauled cargo on the mainland and married [[Liora Aldwick|Liora]] there. He crossed on an early expedition and stayed once he saw what the harbour could become with an inn on it. The two of them take no side. It is bad for business, and worse for the marriage. He wants the inn still standing when he is no longer the one running it.
