@@ -9,7 +9,7 @@ order: 10
 
 **Players:** [[Bhelmus Goldbech]], [[Henry von Arnim]], [[Eldrin]], [[Anthea]], [[Kai Jiang]], [[Silas Vey]]
 
-First experience with the Veil in [[New Ironhold]]. Session was a bit of a stall. Hen
+First experience with the Veil in [[New Ironhold]]. Session was a bit of a stall. Henry
 
 Had their first Veil, Anthea, Balmas, both francois, tobi, jeandre. Hennie/Jaco couldn't make.\
 Bit of a slow session, most of it was social and infighting, ended with Henry almost dying to the shadow monsters.
