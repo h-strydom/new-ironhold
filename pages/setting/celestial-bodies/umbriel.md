@@ -6,7 +6,7 @@ visibility: hidden
 
 The Dark Sister. The Veil. Youngest of the three, and the one people would rather not bring up.
 
-Umbriel is small and livid, purple at the centre and going yellow at the rim, like a bruise a few days into healing. Her cycle is thirty-five days, the same as [Solenne](/a/cmt21jyb000033zod4t3x92rk/xwcy6c08)'s, and her full moon falls on the 33rd of every month, three days before the next one opens. Nothing else about the two of them is alike.
+Umbriel is small and livid, purple at the centre and going yellow at the rim, like a bruise a few days into healing. Her cycle is thirty-five days, the same as Solenne's, and her full moon falls on the 33rd of every month, three days before the next one opens. Nothing else about the two of them is alike.
 
 ## The phases nobody can chart
 
