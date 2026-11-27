@@ -138,7 +138,7 @@ Llewellyn de Vries
 :::
 
 :::cell
-Zoric
+[[Zoric]]
 :::
 
 :::cell
