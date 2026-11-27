@@ -80,6 +80,7 @@ Fighter
 
 ::::row
 :::cell
+Jaco Prinsloo
 :::
 
 :::cell
