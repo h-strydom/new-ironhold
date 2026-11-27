@@ -8,7 +8,7 @@ The Crimson Sister. The Blood Moon. Middle of the three in age and in size, deep
 
 Valora goes full three or four times a year, and no one can name the night in advance. Her orbit runs to a little over a hundred days, but she comes early, then late, then early again, and the drift accumulates. Apart from one night a year, she does not return to the same date twice.
 
-Since nobody can give a date, astrologers give a window instead: a span of days inside which Valora is expected to go full. A poor astrologer offers a fortnight. A good one offers three days. Mainland crowns and great houses keep the good ones on retainer, and a Crimson Window is one of the few forecasts anyone will move a wedding, a battle or a shipment for. Farmers treat the whole window as the event and get their business done before it opens.
+Since nobody can give a date, astrologers give a window instead: a span of days inside which Valora is expected to go full. A poor astrologer offers a fortnight. A good one offers three days. Mainland crowns and great houses keep the good ones on retainer, and a Crimson Window is one of the few forecasts anyone will move a wedding or a shipment for. Farmers treat the whole window as the event and get their business done before it opens.
 
 ## What she brings
 
