@@ -62,7 +62,7 @@ Fighter
 
 ::::row
 :::cell
-Hennie van Sc
+Hennie van Schalkwyk
 :::
 
 :::cell
