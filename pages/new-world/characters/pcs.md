@@ -14,9 +14,15 @@ Player
 :::cell{header}
 Character
 :::
+
+:::cell{header}
+:::
 ::::
 
 ::::row
+:::cell
+:::
+
 :::cell
 :::
 
