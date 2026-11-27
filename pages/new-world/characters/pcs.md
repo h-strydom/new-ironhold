@@ -62,6 +62,7 @@ Fighter
 
 ::::row
 :::cell
+Hennie van Sc
 :::
 
 :::cell
