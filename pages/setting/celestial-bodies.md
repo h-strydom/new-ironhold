@@ -15,7 +15,7 @@ They are not equals, and nobody pretends otherwise. [[Solenne]] is the eldest an
 | - | - | - |
 | [[Solenne]] | The Sovereign, the First Sister | The 1st, every month, without fail |
 | [[Valora]] | The Crimson Sister, the Blood Moon | Three or four times a year, never on schedule |
-| [Umbriel](/a/cmt21jyb000033zod4t3x92rk/am4xsyhf) | The Dark Sister, the Veil | The 33rd, every month |
+| [[Umbriel]] | The Dark Sister, the Veil | The 33rd, every month |
 
 Solenne is large, bright and perfectly circular, and her cycle *is* the month: thirty-five days, no drift, full on the first. Valora is mid-sized and rust-red with an unsteady aura, and her orbit wanders far enough that astrologers sell windows rather than dates. Umbriel is small and livid, the colour of a bruise a few days into healing, hardly worth looking for on most nights, and reliably visible only when full.
 
