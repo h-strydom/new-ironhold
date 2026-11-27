@@ -36,8 +36,6 @@ Ysolde has 1 of each mushroom and will identify them for anthea.
 
 ### 21 to 22 Secunda 42 ATA (2)
 
-DnD session 1 notes.
-
 Players: devilliers francois kaylee jeandre tobi hennie
 
 Arrived in ironhold, henry is clueless resulting in him rubbing most npcs the wrong eay, balmas is a drunkard who has become fasy friend with aldrich.
