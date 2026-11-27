@@ -13,7 +13,7 @@ A note is worth exactly its face in the old coin: 1₲ is a copper piece, 10₲ 
 
 ## What it is for
 
-Gear, information and favours: whatever [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2) can provide, or whatever the mainland can once a ship arrives. Take a job from [Quests](/a/cmt21jyb000033zod4t3x92rk/nj5mzdvg), finish it, get paid by whoever posted it.
+Gear, information and favours: whatever [[New Ironhold]] can provide, or whatever the mainland can once a ship arrives. Take a job from [Quests](/a/cmt21jyb000033zod4t3x92rk/nj5mzdvg), finish it, get paid by whoever posted it.
 
 ## What it is not for
 
