@@ -36,7 +36,7 @@ Ysolde has 1 of each mushroom and will identify them for anthea.
 
 ### 21 to 22 Secunda 42 ATA (2)
 
-**Players:** [[Bhelmus Goldbech]], [[Henry von Arnim]], [[Eldrin]], [[Anthea]], Kai
+**Players:** [[Bhelmus Goldbech]], [[Henry von Arnim]], [[Eldrin]], [[Anthea]], [[Kai Jiang]]
 
 **Players:** DeVilliers, Francois, Jeandre, Kaylee, Tobi, Hennie
 
