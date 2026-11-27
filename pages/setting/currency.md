@@ -7,7 +7,7 @@ order: 20
 
 Gold means very little on this continent. There is nobody out here to spend it on, and nothing it buys that matters more than staying alive.
 
-What [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2) pays in is **Gilda**: cotton notes, not coin, issued by the expedition and its companies against completed work. The crossing is rough on cargo and coin is heavy, so paper was the government's answer to a hold that could not afford the weight.
+What [[New Ironhold]] pays in is **Gilda**: cotton notes, not coin, issued by the expedition and its companies against completed work. The crossing is rough on cargo and coin is heavy, so paper was the government's answer to a hold that could not afford the weight.
 
 A note is worth exactly its face in the old coin: 1₲ is a copper piece, 10₲ a silver, 100₲ a gold and 1,000₲ a platinum. Notes are printed in each of those sizes and one more, the 10,000₲ note, worth ten platinum, so that a big payout does not arrive as a brick of paper.
 
