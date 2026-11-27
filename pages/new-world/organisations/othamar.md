@@ -1,7 +1,7 @@
 ---
 id: 01M854GJFBAES917146Q2016YD
 title: Othamar
-visibility: hidden
+visibility: public
 ---
 
 A trading company built on old-world engineers and machinists. Othamar wants raw material, machinery and salvage: anything they can study and turn into something that works.
