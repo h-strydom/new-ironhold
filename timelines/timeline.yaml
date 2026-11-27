@@ -72,7 +72,7 @@ events:
     start: { calendar: new-ironhold, year: 43, era: ATA, month: secunda, day: 21, abs: 16610 }
     end: { calendar: new-ironhold, year: 43, era: ATA, month: secunda, day: 22, abs: 16611 }
     link: "[[1st Session]]"
-    visibility: hidden
+    visibility: public
   - id: e2827031923
     lane: new-world
     title: 2nd Session
