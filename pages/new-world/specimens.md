@@ -20,13 +20,13 @@ visibility: hidden
 ::::
 
 ::::row
-:::cell
+:::cell{align="center"}
 :::
 
-:::cell
+:::cell{align="center"}
 :::
 
-:::cell
+:::cell{align="center"}
 :::
 ::::
 
