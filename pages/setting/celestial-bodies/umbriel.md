@@ -26,4 +26,4 @@ Nothing is scheduled on New Ironhold for the 33rd. No caravan leaves, no survey 
 
 ## The night she is not alone
 
-Once a year [Valora](/a/cmt21jyb000033zod4t3x92rk/nsr5t74l) is full on the same night: the [Sister's Scourge](/a/cmt21jyb000033zod4t3x92rk/myd2z1bv).
+Once a year [Valora](/a/cmt21jyb000033zod4t3x92rk/nsr5t74l) is full on the same night: the Sister's Scourge.
