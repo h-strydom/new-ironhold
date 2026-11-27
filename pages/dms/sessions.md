@@ -17,7 +17,7 @@ Kai and Balmas hid in The Last Berth. Henry went ons his own.
 **Players:** [[Henry von Arnim]], [[Eldrin]], [[Anthea]], [[Kai Jiang]], [[Voidshot Prime]]
 
 :::info
-B
+[[Bhelmus Goldbech]]
 :::
 
 Took them 5 days to get to the goblins, made a semi truce with them and fought off gnolls, hobgoblin (steve) and 2 goblins (steven stephan) survived. No herbs rescued.
