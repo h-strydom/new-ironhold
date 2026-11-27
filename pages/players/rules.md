@@ -31,4 +31,4 @@ Work somebody is willing to pay for, posted at the Pioneer's tent. You are never
 
 - A new character starts a step below the party's current highest level.
 - They arrive with the next monthly ship, which lands in the first five days of the month.
-- They are equipped as the first wave was: free gear, rations, the Gilda stipend and a 150 GP-equivalent equipment budget.
+- They are equipped as the first wave was: free gear, rations, the [[Currency|Gilda]] stipend and a 150 GP-equivalent equipment budget.
