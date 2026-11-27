@@ -26,6 +26,8 @@ They "adopted" 2 goblins (Steven Stephan) and a hobgoblin (Steve).
 
 Steve told them that their shaman (female) knows where to find more herbs. The goblins are now formally employed in [[New Ironhold]].
 
+[[Anthea]]
+
 None of the herbs were saved. Quest handed in with [[Ysolde Marrow|Ysolde]],
 
 Took them 5 days to get to the goblins, made a semi truce with them and fought off gnolls, hobgoblin (steve) and 2 goblins (steven stephan) survived. No herbs rescued.
