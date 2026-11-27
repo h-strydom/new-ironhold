@@ -14,7 +14,7 @@ Everything else is measured against her because nothing else can be. Sailors set
 
 Her full night falls on the 1st of every month, and it is the one night with formal customs attached to it in every mainland nation that kept any customs at all. Formally it is a day of order. In practice it is the longest working day of the month, and the only one nobody dreads.
 
-Work starts before first light and runs well past dark, and nobody tires. People come in off the fields as if from an easy afternoon, and no scholar has said why. Whole villages turn out for the work that needs more hands than one household has: raising, hauling, roofing, digging out. A party on the road under her spends nothing of its stores to the day and does not lose its way.
+Work starts before first light and runs well past dark, and nobody tires. People come in off the fields as if from an easy afternoon. Whole villages turn out for the work that needs more hands than one household has: raising, hauling, roofing, digging out. A party on the road under her spends nothing of its stores to the day and does not lose its way.
 
 Old mainland law punished violence on a Bright Shift as a separate and heavier offence. Most of that law has lapsed into custom, and the custom is well kept: quarrels wait for the second. The colony brought the custom with it, and it is the nearest thing to a holiday anyone on [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2) gets.
 
