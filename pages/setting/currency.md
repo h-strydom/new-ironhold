@@ -21,7 +21,7 @@ Gilda does not replace what you find in the wild. A blade recovered from a ruin 
 
 ## What a job pays
 
-Work pays on completion, split however you like, scaling with how dangerous the job is.
+Work pays on completion, split between the party memeber however you like, scaling with how dangerous the job is.
 
 ## Prices are not what you would expect
 
