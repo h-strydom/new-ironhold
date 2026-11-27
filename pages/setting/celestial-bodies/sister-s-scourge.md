@@ -8,7 +8,7 @@ Once a year, on Undecima 33rd, [[Umbriel]] and [[Valora]] reach full phase on th
 
 [[Umbriel]] is full on the 33rd of every month, so her half of the night is fixed. [[Valora|Valora's]] half is not, and her arrival on that exact night is either the great coincidence of the calendar or evidence that the calendar was arranged around it. Astrologers have argued both readings and settled neither.
 
-Beasts that turn aggressive under [[Valora]] alone turn savage under both sisters. The dead do not always stay buried. Arcane work turns dangerous: spells surge or misfire, and fissures open in the wilds and in town streets alike. It is the reverse of [[Solenne|Solenne'sn]]'s night, when beasts go docile and nobody tires.
+Beasts that turn aggressive under [[Valora]] alone turn savage under both sisters. The dead do not always stay buried. Arcane work turns dangerous: spells surge or misfire, and fissures open in the wilds and in town streets alike. It is the reverse of [[Solenne|Solenne's]]'s night, when beasts go docile and nobody tires.
 
 Towns go silent. Torches are doused and watches doubled, and everyone waits behind a barricade without a sound until it passes. The mainland calls this the Unspoken Rule.
 
