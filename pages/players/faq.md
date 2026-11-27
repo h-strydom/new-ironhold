@@ -9,7 +9,7 @@ order: 40
 
 No.
 
-You get a winter clothing set, a summer clothing set, basic camping gear, one month of rations, and **150 GP-equivalent** to spend on whatever you like from the equipment chapter, as [Character Creation](/a/cmt21jyb000033zod4t3x92rk/wwbmxrj1) sets out.
+You get a winter clothing set, a summer clothing set, basic camping gear, one month of rations, and **150 GP-equivalent** to spend on whatever you like from the equipment chapter, as [[Character Creation]] sets out.
 
 Three reasons for doing it this way:
 
