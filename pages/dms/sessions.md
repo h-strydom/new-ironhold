@@ -34,8 +34,6 @@ I started collecting and creating [[Specimens|specimens]] for [[Anthea]] to find
 
 None of the herbs were saved. Quest handed in with [[Ysolde Marrow|Ysolde]], she gave them the full quest amount. She borrowed 1 of each mushroom to [[Ysolde Marrow|Ysolde]]. She wanted to buy the shell from [[Anthea]] but she wouldn't budge.
 
-Anthea has a tendency to collect. Found a bizmuth coloured spiral shell on the way back.
-
 She also found 3 kinds of mushroom, a brown button like mushroom that is jorribly poisonous, a large yellow mushroom that is a hallucinogenic, and a small polip type yello mushroom that looks like the baby yello mushroom, but is actually a different species.
 
 They turned in the quest at ysolde, she paid them full price and tried to buy the shell from anthea, she didnt budge.
