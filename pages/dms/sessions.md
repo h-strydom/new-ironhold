@@ -22,7 +22,7 @@ Kai and Balmas hid in The Last Berth. Henry went ons his own.
 
 It took the players 5 days to get to the clearing where the goblins were. They ended up with a semi-truce. Fought off the gnolls and headed back to [[New Ironhold]].
 
-They "adopted" 2 goblins (Steven Stephan)
+They "adopted" 2 goblins (Steven Stephan) and a
 
 Took them 5 days to get to the goblins, made a semi truce with them and fought off gnolls, hobgoblin (steve) and 2 goblins (steven stephan) survived. No herbs rescued.
 
