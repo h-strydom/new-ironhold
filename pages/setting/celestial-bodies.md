@@ -7,7 +7,7 @@ order: 30
 
 Three moons hang over the world, and everyone here calls them the Three Sisters. Nearly everything about how time is measured traces back to them: the length of a month, the days ships are willing to sail, the nights honest folk bolt their doors.
 
-They are not equals, and nobody pretends otherwise. [[Solenne]] is the eldest and the only one anyone truly relies on. [[Valora]] is the middle sister, and she keeps her own counsel. [Umbriel](/a/cmt21jyb000033zod4t3x92rk/am4xsyhf) is the youngest, and most people would rather not discuss her at all.
+They are not equals, and nobody pretends otherwise. [[Solenne]] is the eldest and the only one anyone truly relies on. [[Valora]] is the middle sister, and she keeps her own counsel. [[Umbriel]] is the youngest, and most people would rather not discuss her at all.
 
 ## The sisters
 
