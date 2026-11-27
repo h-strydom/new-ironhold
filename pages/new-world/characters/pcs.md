@@ -26,7 +26,6 @@ Race
 
 ::::row
 :::cell
-Hen
 :::
 
 :::cell
