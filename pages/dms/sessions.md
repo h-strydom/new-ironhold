@@ -11,7 +11,7 @@ order: 10
 
 First experience with the Veil in [[New Ironhold]]. Session was a bit of a stall. Henry went on a very convoluted tangent resulting in the session dragging along.
 
-Effectively [[Eldrin]], [[Anthea]] and Silas fought the darkness, Henry almost died, and Kai and Bhelmus
+Effectively [[Eldrin]], [[Anthea]] and Silas fought the darkness, Henry almost died, and Kai and Bhelmus hid in the Inn
 
 Had their first Veil, Anthea, Balmas, both francois, tobi, jeandre. Hennie/Jaco couldn't make.\
 Bit of a slow session, most of it was social and infighting, ended with Henry almost dying to the shadow monsters.
