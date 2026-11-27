@@ -22,7 +22,7 @@ Under a full Solenne the night runs about as bright as late twilight, bright eno
 
 ## The crossing
 
-Ships cross to and from [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2) only in the first five days of each month, opening on the Bright Shift. Everything that arrives, arrives then: mail, supplies, replacement expedition members, and anything ordered from home half a year ago. Everything that leaves, leaves then as well. Those five days are the busiest of the month in town and the emptiest in the field.
+Ships cross to and from [[New Ironhold]] only in the first five days of each month, opening on the Bright Shift. Everything that arrives, arrives then: mail, supplies, replacement expedition members, and anything ordered from home half a year ago. Everything that leaves, leaves then as well. Those five days are the busiest of the month in town and the emptiest in the field.
 
 ## Her sisters
 
