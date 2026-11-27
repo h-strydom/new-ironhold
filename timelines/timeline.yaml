@@ -5,6 +5,7 @@ lanes:
   - { id: new-world, title: New World }
   - { id: valora, title: Valora, color: "#b4472f" }
   - { id: solenne, title: Solenne, color: "#dfe3ea" }
+  - { id: festivals, title: Festivals }
 events:
   - id: ed563517dfa
     lane: old-world
@@ -51,3 +52,10 @@ events:
     end: { calendar: new-ironhold, year: 0, era: ATA, month: prima, day: 5, abs: 4 }
     repeat: { every: month }
     visibility: hidden
+  - id: e6d4267db72
+    lane: festivals
+    title: Preparation Week
+    start: { calendar: new-ironhold, year: 0, era: ATA, month: undecima, day: 26, abs: 375 }
+    end: { calendar: new-ironhold, year: 0, era: ATA, month: undecima, day: 33, abs: 382 }
+    repeat: { every: year }
+    visibility: public
