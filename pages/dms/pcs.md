@@ -83,6 +83,7 @@ Autognome
 :::
 
 :::cell
+Fighter
 :::
 
 :::cell
