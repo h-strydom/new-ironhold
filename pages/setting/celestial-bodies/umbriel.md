@@ -22,7 +22,7 @@ Ward the thresholds. Bar the doors. Bring the livestock in. Do not travel, do no
 
 The rituals vary by region and are mostly cheap: salt, chalk, a blessed stone at the door, a particular knot tied in a particular way. Nobody claims they work reliably. Everybody performs them.
 
-Nothing is scheduled on New Ironhold for the 33rd. No caravan leaves, no survey goes out, and the gates stay shut from dusk. A party caught outside the wall makes camp, barricades it, and goes nowhere until morning, and that day of the road is simply lost. The settlement kept the custom from the mainland without argument.
+Nothing is scheduled on [[New Ironhold]] for the 33rd. No caravan leaves, no survey goes out, and the gates stay shut from dusk. A party caught outside the wall makes camp, barricades it, and goes nowhere until morning, and that day of the road is simply lost. The settlement kept the custom from the mainland without argument.
 
 ## The night she is not alone
 
