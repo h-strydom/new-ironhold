@@ -35,4 +35,4 @@ A month opens on the Bright Shift and all but ends on the Veil. The heavy work a
 
 ## The shape of a year
 
-Eleven months make a year. The eleventh does not end the way the others do: its 33rd carries the [Sister's Scourge](/a/cmt21jyb000033zod4t3x92rk/myd2z1bv), and the year turns two days later.
+Eleven months make a year. The eleventh does not end the way the others do: its 33rd carries the [[Sister's Scourge]], and the year turns two days later.
