@@ -21,7 +21,7 @@ visibility: hidden
 
 ::::row
 :::cell{align="center" valign="middle"}
-Sol
+Solar Mushroom
 :::
 
 :::cell{align="center" valign="middle"}
