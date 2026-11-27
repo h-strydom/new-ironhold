@@ -1,7 +1,7 @@
 ---
 id: 01M851C2JBBC7T1VH17FGWQ7DK
 title: Expeditions
-visibility: hidden
+visibility: public
 order: 20
 ---
 
