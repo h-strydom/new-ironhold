@@ -1,7 +1,7 @@
 ---
 id: 01M81845RHS2Y1HFSEEXDDK68K
 title: New Ironhold
-visibility: public
+visibility: hidden
 order: 10
 ---
 
