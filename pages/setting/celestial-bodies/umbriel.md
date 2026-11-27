@@ -8,8 +8,6 @@ The Dark Sister. The Veil. Youngest of the three, and the one people would rathe
 
 Umbriel is small and livid, purple at the centre and going yellow at the rim, like a bruise a few days into healing. Her cycle is thirty-five days, the same as [[Solenne|Solenne's]], and her full moon falls on the 33rd of every month, three days before the next one opens. Nothing else about the two of them is alike.
 
-## The phases nobody can chart
-
 Umbriel is reliably visible only when full, as a dull ring low in the sky. Between one full moon and the next she is a matter of opinion. Two people standing in the same field on the same night will each describe something, and the descriptions will not match. Neither of them is lying.
 
 Astrologers have tried to chart her intermediate phases for centuries. Several have gone mad at it, and the profession counts that a hazard of the work rather than a warning. There is no accepted chart, and no accepted method for producing one.
