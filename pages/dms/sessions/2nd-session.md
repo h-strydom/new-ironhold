@@ -4,8 +4,6 @@ title: 2nd Session
 visibility: hidden
 ---
 
-##
-
 ## #2 2026-10-14
 
 **Players:** [[Henry von Arnim]], [[Eldrin]], [[Anthea]], [[Kai Jiang]], [[Voidshot Prime]]
