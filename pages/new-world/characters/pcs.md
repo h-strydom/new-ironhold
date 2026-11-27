@@ -5,6 +5,21 @@ visibility: hidden
 order: 10
 ---
 
-| Player | |
-| - | - |
-| | |
+:::::table{columns}
+::::row
+:::cell{header}
+Player
+:::
+
+:::cell{header}
+:::
+::::
+
+::::row
+:::cell
+:::
+
+:::cell
+:::
+::::
+:::::
