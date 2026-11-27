@@ -29,6 +29,7 @@ Steve told them that their shaman (female) knows where to find more herbs. The g
 [[Anthea]] has a tendency to collect. She found 3 mushrooms, 2 yellow 1 brown, as well as a bismuth styled shell.
 
 :::info
+I started collectin
 :::
 
 None of the herbs were saved. Quest handed in with [[Ysolde Marrow|Ysolde]], she gave them the full quest amount. She borrowed 1 of each mushroom to [[Ysolde Marrow|Ysolde]]. She wanted to buy the shell from [[Anthea]] but she wouldn't budge.
