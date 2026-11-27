@@ -84,7 +84,7 @@ Jaco Prinsloo
 :::
 
 :::cell
-**Zecriel**
+Zecriel
 :::
 
 :::cell
