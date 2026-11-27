@@ -134,24 +134,6 @@ Druid
 
 ::::row
 :::cell
-Tobias Bester
-:::
-
-:::cell
-Kai Jiang
-:::
-
-:::cell
-Human
-:::
-
-:::cell
-Monk
-:::
-::::
-
-::::row
-:::cell
 Llewellyn de Vries
 :::
 
@@ -165,6 +147,24 @@ Human
 
 :::cell
 Cleric
+:::
+::::
+
+::::row
+:::cell
+Tobias Bester
+:::
+
+:::cell
+Kai Jiang
+:::
+
+:::cell
+Human
+:::
+
+:::cell
+Monk
 :::
 ::::
 :::::
