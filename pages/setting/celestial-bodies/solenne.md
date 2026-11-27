@@ -16,7 +16,7 @@ Her full night falls on the 1st of every month, and it is the one night with for
 
 Work starts before first light and runs well past dark, and nobody tires. People come in off the fields as if from an easy afternoon. Whole villages turn out for the work that needs more hands than one household has: raising, hauling, roofing, digging out. A party on the road under her spends nothing of its stores to the day and does not lose its way.
 
-Old mainland law punished violence on a Bright Shift as a separate and heavier offence. Most of that law has lapsed into custom, and the custom is well kept: quarrels wait for the second. The colony brought the custom with it, and it is the nearest thing to a holiday anyone on [New Ironhold](/a/cmt21jyb000033zod4t3x92rk/x8tqb3v2) gets.
+Old mainland law punished violence on a Bright Shift as a separate and heavier offence. Most of that law has lapsed into custom, and the custom is well kept: quarrels wait for the second. The colony brought the custom with it, and it is the nearest thing to a holiday anyone on [[New Ironhold]] gets.
 
 Under a full Solenne the night runs about as bright as late twilight, bright enough to read by outdoors and to work by. Towns of any size hold night markets, and at the tail of the season the harvest runs on into the dark without anyone lighting a torch. Predatory night-beasts go docile under her light. Nobody has explained it, and everybody plans around it. That makes the Bright Shift the safest night of the month to be outside a wall, which matters a great deal more here than it ever did on the mainland.
 
