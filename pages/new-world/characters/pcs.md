@@ -44,7 +44,7 @@ Wizard
 
 ::::row
 :::cell
-Francois Combrin
+Francois Combrinck
 :::
 
 :::cell
