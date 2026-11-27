@@ -1,7 +1,7 @@
 ---
 id: 01M854JEW07BXK36ETZRPMBTCF
 title: Threnval
-visibility: hidden
+visibility: public
 ---
 
 A trading company built on old-world magecraft and alchemy. Its trade runs almost entirely on reagents out of [[Ashvale]]. Threnval wants rare herbs, monster components and anything else the wilderness yields that an alchemist can turn into something to sell.
