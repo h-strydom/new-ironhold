@@ -70,6 +70,7 @@ Voidshot Prime
 :::
 
 :::cell
+Autognome
 :::
 
 :::cell
