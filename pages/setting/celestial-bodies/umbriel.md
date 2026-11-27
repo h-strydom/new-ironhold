@@ -1,7 +1,7 @@
 ---
 id: 01M8551KVVPANG70TACNEM99W1
 title: Umbriel
-visibility: hidden
+visibility: public
 ---
 
 The Dark Sister. The Veil. Youngest of the three, and the one people would rather not bring up.
