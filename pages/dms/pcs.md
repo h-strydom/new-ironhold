@@ -66,7 +66,7 @@ Hennie van Schalkwyk
 :::
 
 :::cell
-Voidshot Prime
+[[Voidshot Prime]]
 :::
 
 :::cell
