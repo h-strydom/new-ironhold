@@ -38,8 +38,6 @@ Ysolde has 1 of each mushroom and will identify them for anthea.
 
 **Players:** [[Bhelmus Goldbech]], [[Henry von Arnim]], [[Eldrin]], [[Anthea]], [[Kai Jiang]], [[Voidshot Prime]]
 
-**Players:** DeVilliers, Francois, Jeandre, Kaylee, Tobi, Hennie
-
 They arrived in [[New Ironhold]]. Henry is clueless resulting in him rubbing most of the NPCs the wrong way. Bhelmus is a drunkard who has become fast friends with [[Dorne Aldwick]]
 
 Arrived in ironhold, henry is clueless resulting in him rubbing most npcs the wrong eay, balmas is a drunkard who has become fasy friend with aldrich.
