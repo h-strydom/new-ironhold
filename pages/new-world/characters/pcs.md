@@ -16,11 +16,11 @@ Character
 :::
 
 :::cell{header}
-Class
+Race
 :::
 
 :::cell{header}
-Race
+Class
 :::
 ::::
 
