@@ -20,7 +20,7 @@ Kai and Balmas hid in The Last Berth. Henry went ons his own.
 [[Bhelmus Goldbech]] was to drunk to go on the quest and was dragged back to [[The Last Berth]].
 :::
 
-It took the players 5 days to get to the clearing where the goblins were. They ended up with a semi
+It took the players 5 days to get to the clearing where the goblins were. They ended up with a semi-truce
 
 Took them 5 days to get to the goblins, made a semi truce with them and fought off gnolls, hobgoblin (steve) and 2 goblins (steven stephan) survived. No herbs rescued.
 
