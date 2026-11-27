@@ -3,6 +3,7 @@ calendar: new-ironhold
 lanes:
   - { id: old-world, title: Old World }
   - { id: new-world, title: New World }
+  - { id: valora, title: Valora, color: "#b4472f" }
 events:
   - id: ed563517dfa
     lane: old-world
@@ -13,4 +14,11 @@ events:
     lane: new-world
     title: 13th Expedition
     start: { calendar: new-ironhold, year: 43, era: ATA, month: secunda, day: 21, abs: 16610 }
+    visibility: hidden
+  - id: e2bb0261173
+    lane: valora
+    title: Valora full
+    start: { calendar: new-ironhold, year: 0, era: ATA, month: tertia, day: 20, abs: 89 }
+    end: { calendar: new-ironhold, year: 0, era: ATA, month: tertia, day: 24, abs: 93 }
+    repeat: { every: year }
     visibility: hidden
