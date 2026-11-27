@@ -34,8 +34,6 @@ I started collecting and creating [[Specimens|specimens]] for [[Anthea]] to find
 
 None of the herbs were saved. Quest handed in with [[Ysolde Marrow|Ysolde]], she gave them the full quest amount. She borrowed 1 of each mushroom to [[Ysolde Marrow|Ysolde]]. She wanted to buy the shell from [[Anthea]] but she wouldn't budge.
 
-Steve says they have a female shaman somewhere that knows where to find more herbs. Goblins now work in new ironhold
-
 6 days track back to new ironhold
 
 Anthea has a tendency to collect. Found a bizmuth coloured spiral shell on the way back.
