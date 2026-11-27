@@ -30,7 +30,7 @@ DeVilliers Meiring
 :::
 
 :::cell
-Bhe
+Bhel
 :::
 
 :::cell
