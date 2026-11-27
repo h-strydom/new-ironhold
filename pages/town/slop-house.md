@@ -1,7 +1,7 @@
 ---
 id: 01M853TF2BEZNJBKKNFFX3Q572
 title: Slop House
-visibility: hidden
+visibility: public
 ---
 
 The slop house is a long, low, smoke-blackened building beside the bunkhouse in the west, serving whatever is in the pot to anyone who brings a bowl. Nobody in [[New Ironhold]] goes hungry for lack of coin.
