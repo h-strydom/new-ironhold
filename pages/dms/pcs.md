@@ -98,24 +98,6 @@ Paladin
 
 ::::row
 :::cell
-Kaylee Botha
-:::
-
-:::cell
-Anthea
-:::
-
-:::cell
-Elf
-:::
-
-:::cell
-Druid
-:::
-::::
-
-::::row
-:::cell
 Jeandre Botha
 :::
 
@@ -129,6 +111,24 @@ Elf
 
 :::cell
 Cleric
+:::
+::::
+
+::::row
+:::cell
+Kaylee Botha
+:::
+
+:::cell
+Anthea
+:::
+
+:::cell
+Elf
+:::
+
+:::cell
+Druid
 :::
 ::::
 
