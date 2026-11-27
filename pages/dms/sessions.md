@@ -20,7 +20,7 @@ Kai and Balmas hid in The Last Berth. Henry went ons his own.
 [[Bhelmus Goldbech]] was to drunk to go on the quest and was dragged back to [[The Last Berth]].
 :::
 
-It took the players 5 days to get to the clearing where the goblins were. They ended up with a semi-truce. Fought off the gnolls and headed back to [[New Ironhold]]. The trip back took 6 days
+It took the players 5 days to get to the clearing where the goblins were. They ended up with a semi-truce. Fought off the gnolls and headed back to [[New Ironhold]]. The trip back took 6 days.
 
 They "adopted" 2 goblins (Steven Stephan) and a hobgoblin (Steve).
 
