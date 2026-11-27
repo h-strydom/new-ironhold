@@ -26,4 +26,4 @@ Ships cross to and from [[New Ironhold]] only in the first five days of each mon
 
 ## Her sisters
 
-[Valora](/a/cmt21jyb000033zod4t3x92rk/nsr5t74l) is the middle sister and [[Umbriel]] the youngest. Solenne is the only one of the three whose behaviour is settled.
+[[Valora]] is the middle sister and [[Umbriel]] the youngest. Solenne is the only one of the three whose behaviour is settled.
