@@ -120,7 +120,7 @@ Kaylee Botha
 :::
 
 :::cell
-Anthea
+[[Anthea]]
 :::
 
 :::cell
