@@ -9,8 +9,6 @@ order: 20
 
 Eleven adventurers, the largest party to leave the gate. They signed out together on 22 September, Year 42 ATA, and have not been seen since. No hand has ever written in the Back column beside any of them.
 
-Seven of the names are on the first page of the gate book. The other four sit at the top of the next, directly above the thirteenth expedition.
-
 | ![prop_gate_book_recto](blob:sha256-8c58333ee0d18fbe7cc59f2d1d64257b384d09855523e91b5c7f7fcb19f34e8a) | ![prop_gate_book_verso](blob:sha256-eca6835cfd7c6d607643541eb2d24439fe4a16518451f938656478df6ba917d0) |
 | - | - |
 
