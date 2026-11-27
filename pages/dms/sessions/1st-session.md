@@ -7,7 +7,7 @@ order: 30
 
 ## #1 2026-09-16
 
-21 to 22 Secunda 42 ATA (2)
+**21 to 22 Secunda 42 ATA (2)**
 
 **Players:** [[Bhelmus Goldbech]], [[Henry von Arnim]], [[Eldrin]], [[Anthea]], [[Kai Jiang]], [[Voidshot Prime]]
 
