@@ -7,7 +7,7 @@ order: 20
 
 ## #2 2026-10-14
 
-22 to 32 Secunda 43 ATA
+**22 to 32 Secunda 43 ATA**
 
 **Players:** [[Henry von Arnim]], [[Eldrin]], [[Anthea]], [[Kai Jiang]], [[Voidshot Prime]]
 
