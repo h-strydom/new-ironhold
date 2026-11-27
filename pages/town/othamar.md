@@ -1,7 +1,7 @@
 ---
 id: 01M853MVD379TMRPMHNTN5DHQW
 title: Othamar
-visibility: hidden
+visibility: public
 ---
 
 [[Organisations|Othamar's]] yard sells weapons and tools, limited to what its engineers have finished. [[Garrick Thane]] is usually found there and haggles over nothing but the work.
