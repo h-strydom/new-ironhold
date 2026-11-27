@@ -16,4 +16,4 @@ The mainland treats her full night as one to prepare for rather than to fear. Wa
 
 ## The night she is not alone
 
-Once a year she goes full on the same night as [Umbriel](/a/cmt21jyb000033zod4t3x92rk/am4xsyhf), the youngest of the three: the [Sister's Scourge](/a/cmt21jyb000033zod4t3x92rk/myd2z1bv).
+Once a year she goes full on the same night as [[Umbriel]], the youngest of the three: the [[Sister's Scourge]].
