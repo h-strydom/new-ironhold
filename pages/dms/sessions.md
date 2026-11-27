@@ -34,8 +34,6 @@ I started collecting and creating [[Specimens|specimens]] for [[Anthea]] to find
 
 None of the herbs were saved. Quest handed in with [[Ysolde Marrow|Ysolde]], she gave them the full quest amount. She borrowed 1 of each mushroom to [[Ysolde Marrow|Ysolde]]. She wanted to buy the shell from [[Anthea]] but she wouldn't budge.
 
-Took them 5 days to get to the goblins, made a semi truce with them and fought off gnolls, hobgoblin (steve) and 2 goblins (steven stephan) survived. No herbs rescued.
-
 Steve says they have a female shaman somewhere that knows where to find more herbs. Goblins now work in new ironhold
 
 6 days track back to new ironhold
