@@ -19,8 +19,6 @@ Gear, information and favours: whatever [[New Ironhold]] can provide, or whateve
 
 Gilda does not replace what you find in the wild. A blade recovered from a ruin is still a blade, and a rare reagent is worth trading whether or not it is ever sold for notes.
 
-It does not buy levels either. Advancement comes from the work you finish and what you bring back.
-
 ## What a job pays
 
 Most posted work pays 10,000₲ to 20,000₲ per party, split however you like, scaling with how dangerous the job is.
