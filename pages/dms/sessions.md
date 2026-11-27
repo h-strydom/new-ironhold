@@ -7,6 +7,8 @@ order: 10
 
 ## #3 2026-11-18
 
+**Players**
+
 Had their first Veil, Anthea, Balmas, both francois, tobi, jeandre. Hennie/Jaco couldn't make.\
 Bit of a slow session, most of it was social and infighting, ended with Henry almost dying to the shadow monsters.
 
