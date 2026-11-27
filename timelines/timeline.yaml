@@ -2,7 +2,7 @@ title: Timeline
 calendar: new-ironhold
 lanes:
   - { id: old-world, title: Old World }
-  - { id: new-world, title: New World }
+  - { id: new-world, title: New World, color: "#e0b44c" }
   - { id: valora, title: Valora, color: "#b4472f" }
   - { id: solenne, title: Solenne, color: "#dfe3ea" }
   - { id: festivals, title: Festivals }
