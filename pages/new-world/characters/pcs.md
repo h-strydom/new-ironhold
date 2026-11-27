@@ -56,6 +56,7 @@ Human
 :::
 
 :::cell
+Fighter
 :::
 ::::
 :::::
