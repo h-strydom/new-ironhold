@@ -80,3 +80,10 @@ events:
     end: { calendar: new-ironhold, year: 43, era: ATA, month: secunda, day: 32, abs: 16621 }
     link: "[[2nd Session]]"
     visibility: public
+  - id: eefd233bcfb
+    lane: new-world
+    title: 3rd Session
+    start: { calendar: new-ironhold, year: 43, era: ATA, month: secunda, day: 32, abs: 16621 }
+    end: { calendar: new-ironhold, year: 43, era: ATA, month: secunda, day: 33, abs: 16622 }
+    link: "[[3rd Session]]"
+    visibility: public
