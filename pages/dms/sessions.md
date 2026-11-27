@@ -33,6 +33,8 @@ Ysolde has 1 of each mushroom and will identify them for anthea.
 
 ## #1 2026-09-16
 
+###
+
 DnD session 1 notes.
 
 Players: devilliers francois kaylee jeandre tobi hennie
