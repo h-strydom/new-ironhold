@@ -1,7 +1,7 @@
 ---
 id: 01M850T2JEBXAJ7T87KEHYB3AH
 title: Rosemary and Co.
-visibility: hidden
+visibility: public
 ---
 
 The general store, near the Pioneer's tent. Run by [[Rosemary]].
