@@ -38,8 +38,6 @@ Ysolde has 1 of each mushroom and will identify them for anthea.
 
 **Players:** DeVilliers, Francois, Jeandre, Kaylee, Tobi, Hennie
 
-Players: devilliers francois kaylee jeandre tobi hennie
-
 Arrived in ironhold, henry is clueless resulting in him rubbing most npcs the wrong eay, balmas is a drunkard who has become fasy friend with aldrich.
 
 Players arrived the morning of day 1, spend the day at the last berth. Henry offended rosemary and bought the free map for most of his money
