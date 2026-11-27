@@ -13,7 +13,7 @@ They are not equals, and nobody pretends otherwise. [[Solenne]] is the eldest an
 
 | Sister | Also called | Full moon |
 | - | - | - |
-| [Solenne](/a/cmt21jyb000033zod4t3x92rk/xwcy6c08) | The Sovereign, the First Sister | The 1st, every month, without fail |
+| [[Solenne]] | The Sovereign, the First Sister | The 1st, every month, without fail |
 | [Valora](/a/cmt21jyb000033zod4t3x92rk/nsr5t74l) | The Crimson Sister, the Blood Moon | Three or four times a year, never on schedule |
 | [Umbriel](/a/cmt21jyb000033zod4t3x92rk/am4xsyhf) | The Dark Sister, the Veil | The 33rd, every month |
 
