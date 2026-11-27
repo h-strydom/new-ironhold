@@ -1,7 +1,7 @@
 ---
 id: 01M85515P9MT5ATXKPSQ2H08YJ
 title: Valora
-visibility: hidden
+visibility: public
 ---
 
 The Crimson Sister. The Blood Moon. Middle of the three in age and in size, deep rust-red, wrapped in an aura that never sits quite still.
