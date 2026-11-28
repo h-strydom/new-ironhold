@@ -20,7 +20,7 @@ Old mainland law punished violence on a Bright Shift as a separate and heavier o
 
 Under a full Solenne the night runs about as bright as late twilight, bright enough to read by outdoors and to work by. Towns of any size hold night markets, and at the tail of the season the harvest runs on into the dark without anyone lighting a torch. Predatory night-beasts go docile under her light. Nobody has explained it, and everybody plans around it. That makes the Bright Shift the safest night of the month to be outside a wall, which matters a great deal more here than it ever did on the mainland.
 
-Ships cross to and from [[New Ironhold]] only in the first five days of each month, opening on the Bright Shift. Everything that arrives: mail, supplies, replacement expedition members, and anything ordered from home half a year ago. Those five days are the busiest of the month in town and the emptiest in the field.
+Ships set sail, from the mainland and from [[New Ironhold]] alike, only in the first five days of each month, opening on the Bright Shift, and the crossing takes eleven weeks. Those five days are the busiest of the month in town and the emptiest in the field, with everything going home loaded and gone. The ships come in three weeks into the month after next, between the 21st and the 25th, carrying mail, supplies, workers, the odd replacement adventurer, and anything ordered from home four months before.
 
 ## Her sisters
 
