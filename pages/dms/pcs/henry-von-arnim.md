@@ -7,4 +7,4 @@ visibility: hidden
 Ardessan
 
 Family were rising stars in the nobility.\
-They have a county? bordering Ashvale, with a large workforce of illegally accuired Cassive
+They have a county? bordering Ashvale, with a large workforce of illegally accuired Cassiveri
