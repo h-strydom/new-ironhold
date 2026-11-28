@@ -5,7 +5,7 @@ visibility: public
 order: 50
 ---
 
-Work somebody is willing to pay for, pinned to the board at the Pioneer's tent. Three employers post there: [[Pioneers]], which issues the official surveys, and the two trading companies, [[id:01M854GJFBAES917146Q2016YD|Othamar]] and [[id:01M854JEW07BXK36ETZRPMBTCF|Threnval]], who answer to their own backers and work by the Pioneer's leave.
+Work somebody is willing to pay for, pinned to the board at the Pioneers' tent. Three employers post there: the [[Pioneers]], who issue the official surveys, and the two trading companies, [[id:01M854GJFBAES917146Q2016YD|Othamar]] and [[id:01M854JEW07BXK36ETZRPMBTCF|Threnval]], who answer to their own backers and work by the Pioneer's leave.
 
 Anyone can take anything. No job is held for whoever read it first or kept back for those who have been here longest.
 
