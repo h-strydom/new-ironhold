@@ -8,8 +8,8 @@ today:
     year: 43,
     era: ATA,
     month: secunda,
-    day: 21,
-    abs: 16610
+    day: 34,
+    abs: 16623
   }
 snippets:
   - name: gilda
