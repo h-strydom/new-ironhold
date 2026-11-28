@@ -30,5 +30,5 @@ Work somebody is willing to pay for, posted at the Pioneers' tent. You are never
 ## If your character dies
 
 - A new character starts a step below the party's current highest level.
-- They arrive with the next monthly ship, which lands in the first five days of the month.
+- They arrive with the next monthly ship, which sails in [[Solenne|Solenne's]] week and lands between the 21st and the 25th of the following month.
 - They are equipped as the first wave was: free gear, rations, the [[Currency|Gilda]] stipend and a 150 GP-equivalent equipment budget.
