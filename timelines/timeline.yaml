@@ -50,7 +50,7 @@ events:
     lane: festivals
     title: Preparation Week
     start: { calendar: new-ironhold, year: 0, era: ATA, month: undecima, day: 26, abs: 375 }
-    end: { calendar: new-ironhold, year: 0, era: ATA, month: undecima, day: 33, abs: 382 }
+    end: { calendar: new-ironhold, year: 0, era: ATA, month: undecima, day: 32, abs: 381 }
     repeat: { every: year }
     visibility: public
   - id: e16e8781e01
