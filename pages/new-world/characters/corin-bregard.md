@@ -5,7 +5,7 @@ visibility: public
 order: 30
 ---
 
-Guildmaster of [[Quests]] in [[New Ironhold]], which is the [[Pioneers|Pioneers']] building but not his employer.
+Guildmaster of [[Quests]] in [[New Ironhold]]. He keeps the board in the [[Pioneers|Pioneers']] tent and speaks for them in town, which makes him the nearest thing New Ironhold has to a government official.
 
 - **Human, in his sixties.** Broad across the shoulders and gone soft through the middle.
 - **Grey hair** cropped to the skull, over a weathered face.
