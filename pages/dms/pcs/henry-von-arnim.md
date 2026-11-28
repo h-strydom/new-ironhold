@@ -6,4 +6,4 @@ visibility: hidden
 
 Ardessan
 
-Family were rising stars
+Family were rising stars in the nobility
