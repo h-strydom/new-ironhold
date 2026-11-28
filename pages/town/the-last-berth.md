@@ -10,8 +10,6 @@ It stands at the landward end of the dock on the east side, so every arrival, ev
 
 The plot came with a condition written into it: adventurers are housed free upstairs, one room each, for as long as there are adventurers to house.
 
-No adventurer currently have claim on one. Twelve expeditions have landed, and the rooms stand made up and empty.
-
 ## Food and drink
 
 The water ration and the expedition meal cost nothing and taste like it. Everything else costs, and The Last Berth is the only place inside the palisade serving anything a person would choose to eat.
