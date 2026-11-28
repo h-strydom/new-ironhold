@@ -25,7 +25,7 @@ A party that keeps good notes will find things a careless one walks straight pas
 
 ## [[Quests]]
 
-Work somebody is willing to pay for, posted at the Pioneer's tent. You are never required to take it. Taking work from the Pioneer or from either trading company does not bind you to whoever posted it, and you can move between them from one session to the next.
+Work somebody is willing to pay for, posted at the Pioneers' tent. You are never required to take it. Taking work from the Pioneer or from either trading company does not bind you to whoever posted it, and you can move between them from one session to the next.
 
 ## If your character dies
 
