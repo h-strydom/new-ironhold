@@ -10,7 +10,7 @@ Threnval sells rations and potions. Rations are the one thing no expedition leav
 
 **Mana-hardtack** is a biscuit shipped in from the old world and worked so that three a day cover a person's food and water.
 
-Every new arrival is issued **90 rations**, thirty days at three a day. Anyone who runs through them or loses a pack buys more at one flat price, with no bulk order:
+Every new arrival is issued **105 rations**, one month at three a day. Anyone who runs through them or loses a pack buys more at one flat price, with no bulk order:
 
 | Item | Price |
 | - | - |
