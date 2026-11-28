@@ -4,7 +4,7 @@ title: Rosemary and Co.
 visibility: public
 ---
 
-The general store, near the Pioneer's tent. Run by [[Rosemary]].
+The general store, near the Pioneers' tent. Run by [[Rosemary]].
 
 Day-to-day goods and nothing else: rope, lamp oil, boots, canvas. Weapons and tools are [[id:01M854GJFBAES917146Q2016YD|Othamar's]] trade, and rations and potions are [[id:01M854JEW07BXK36ETZRPMBTCF|Threnval's]].
 
