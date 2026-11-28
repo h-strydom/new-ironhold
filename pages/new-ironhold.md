@@ -13,7 +13,7 @@ You signed the expedition contract for what's out there, not what's in here. New
 
 A ship lands once a month, having sailed in [[Solenne|Solenne's]] week eleven weeks before, and most of what it puts on the dock is labour. Dozens of hands signed on for stone, timber, and whatever needs carrying up from the harbour. They go to the bunkhouse, all of them, one long room with the beds close enough together that every man hears his neighbour turn over in the night.
 
-Adventurers do not arrive on that schedule. An expedition lands once a year, and a handful of adventurers come off it. This year that is you.
+A full expedition does not arrive on that schedule. It lands once a year, and a handful of adventurers come off it. This year that is you. The odd adventurer comes and goes on the monthly ships with the workers, mostly to fill a place the wilderness has emptied.
 
 Nobody will ask you to haul stone, cut timber or empty a hold. That is not what you are for. You are for the work nobody signs on for: keeping a caravan alive between here and wherever it is going, clearing out whatever has moved into ground the town needs, and walking past the tree line to find out what is on the other side of it.
 
