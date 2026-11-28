@@ -4,7 +4,7 @@ title: Threnval
 visibility: public
 ---
 
-[[[id:01M854JEW07BXK36ETZRPMBTCF|Threnval]]](/a/cmt21jyb000033zod4t3x92rk/dxejh6gh) sells rations and potions. Rations are the one thing no expedition leaves town without.
+[Threnval](/a/cmt21jyb000033zod4t3x92rk/dxejh6gh) sells rations and potions. Rations are the one thing no expedition leaves town without.
 
 ## Rations
 
